@@ -1,0 +1,4543 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "42",
+    "opensearch:startIndex": "17",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "AU-ID(23007591800)",
+      "@startPage": "17"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=17&count=25&query=AU-ID%2823007591800%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=AU-ID%2823007591800%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=AU-ID%2823007591800%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=17&count=25&query=AU-ID%2823007591800%29&view=COMPLETE",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84955518266"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84955518266?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84955518266&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84955518266&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84955518266",
+        "dc:identifier": "SCOPUS_ID:84955518266",
+        "eid": "2-s2.0-84955518266",
+        "dc:title": "Extreme rainfall in the United Kingdom during winter 2013/14: The role of atmospheric circulation and climate change",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Bulletin of the American Meteorological Society",
+        "prism:issn": "00030007",
+        "prism:volume": "96",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "S46-S50",
+        "prism:coverDate": "2015-12-01",
+        "prism:coverDisplayDate": "December 2015",
+        "prism:doi": "10.1175/BAMS-D-15-00094.1",
+        "dc:description": "© 2015 American Meteorological Society. Extreme winter rainfall in the United Kingdom becomes eight times more likely when the atmospheric circulation resembles winter 2013/14, whereas anthropogenic influence is only discernible in extremes with a shorter duration.",
+        "citedby-count": "15",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "12074",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941425113"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84941425113?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84941425113&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84941425113&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84941425113",
+        "dc:identifier": "SCOPUS_ID:84941425113",
+        "eid": "2-s2.0-84941425113",
+        "dc:title": "Fast-track attribution assessments based on pre-computed estimates of changes in the odds of warm extremes",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Climate Dynamics",
+        "prism:issn": "09307575",
+        "prism:eIssn": "14320894",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "5-6",
+        "prism:pageRange": "1547-1564",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1007/s00382-014-2408-x",
+        "dc:description": "© 2014, Crown Copyright. Regional warming due to anthropogenic influence on the climate is expected to increase the frequency of very warm years and seasons. The growing research area of extreme event attribution has provided pertinent scientific evidence for a number of such warm events for which the forced climate response rises above internal climatic variability. Although the demand for attribution assessments is higher shortly after an event occurs, most scientific studies become available several months later. A formal attribution methodology is employed here to pre-compute the changing odds of very warm years and seasons in regions across the world. Events are defined based on the exceedence of temperature thresholds and their changing odds are measured over a range of pre-specified thresholds, which means assessments can be made as soon as a new event happens. Optimal fingerprinting provides observationally constrained estimates of the global temperature response to external forcings from which regional information is extracted. This information is combined with estimates of internal variability to construct temperature distributions with and without the effect of anthropogenic influence. The likelihood of an event is computed for each distribution and the change in the odds estimated. Analyses are conducted with seven climate models to explore the model dependency of the results. Apart from colder regions and seasons, characterised by greater internal climate variability, the odds of warm events are found to have significantly increased and temperatures above the threshold of 1-in-10 year events during 1961–1990 have become at least twice as likely to occur.",
+        "citedby-count": "19",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60003122",
+            "afid": "60003122",
+            "affilname": "University of Victoria",
+            "affiliation-city": "Victoria",
+            "affiliation-country": "Canada"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004861251",
+            "authid": "7004861251",
+            "authname": "Zwiers F.",
+            "surname": "Zwiers",
+            "given-name": "Francis W.",
+            "initials": "F.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60003122"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Anthropogenic forcings | Detection and attribution | Regional temperature extremes",
+        "source-id": "12172",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885226725"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84885226725?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84885226725&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84885226725&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84885226725",
+        "dc:identifier": "SCOPUS_ID:84885226725",
+        "eid": "2-s2.0-84885226725",
+        "dc:title": "Explaining extreme events of 2012 from a climate perspective",
+        "dc:creator": "Peterson T.",
+        "prism:publicationName": "Bulletin of the American Meteorological Society",
+        "prism:issn": "00030007",
+        "prism:volume": "94",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1175/BAMS-D-13-00085.1",
+        "dc:description": "Attribution of extreme events is a challenging science and one that is currently undergoing considerable evolution. In this paper are 19 analyses by 18 different research groups, often using quite different methodologies, of 12 extreme events that occurred in 2012. In addition to investigating the causes of these extreme events, the multiple analyses of four of the events, the high temperatures in the United States, the record low levels of Arctic sea ice, and the heavy rain in northern Europe and eastern Australia, provide an opportunity to compare and contrast the strengths and weaknesses of the various methodologies. The differences also provide insights into the structural uncertainty of event attribution, that is, the uncertainty that arises directly from the differences in analysis methodology. In these cases, there was considerable agreement between the different assessments of the same event. However, different events had very different causes. Approximately half the analyses found some evidence that anthropogenically caused climate change was a contributing factor to the extreme event examined, though the effects of natural fluctuations of weather and climate on the evolution of many of the extreme events played key roles as well.",
+        "citedby-count": "121",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60031127",
+            "afid": "60031127",
+            "affilname": "NOAA National Climatic Data Center",
+            "affiliation-city": "Asheville",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028010",
+            "afid": "60028010",
+            "affilname": "NOAA Earth System Research Laboratory",
+            "affiliation-city": "Boulder",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60031127",
+            "afid": "60031127",
+            "affilname": "NOAA National Climatic Data Center",
+            "affiliation-city": "Asheville",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "author-count": {
+          "@limit": "100",
+          "$": "109"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7202318056",
+            "authid": "7202318056",
+            "authname": "Peterson T.",
+            "surname": "Peterson",
+            "given-name": "Thomas C.",
+            "initials": "T.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7202318056",
+            "authid": "7202318056",
+            "authname": "Peterson T.",
+            "surname": "Peterson",
+            "given-name": "Thomas C.",
+            "initials": "T.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003341036",
+            "authid": "7003341036",
+            "authname": "Hoerling M.",
+            "surname": "Hoerling",
+            "given-name": "Martin P.",
+            "initials": "M.P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028010"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003341036",
+            "authid": "7003341036",
+            "authname": "Alexander L.",
+            "surname": "Alexander",
+            "given-name": "Lisa V.",
+            "initials": "L.V.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028010"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003341036",
+            "authid": "7003341036",
+            "authname": "Alexander L.",
+            "surname": "Alexander",
+            "given-name": "Lisa V.",
+            "initials": "L.V.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028010"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003341036",
+            "authid": "7003341036",
+            "authname": "Hoerling M.",
+            "surname": "Hoerling",
+            "given-name": "Martin P.",
+            "initials": "M.P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028010"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Allen M.",
+            "surname": "Allen",
+            "given-name": "Myles R.",
+            "initials": "M.R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Allen M.",
+            "surname": "Allen",
+            "given-name": "Myles R.",
+            "initials": "M.R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Scott P.",
+            "surname": "Scott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55321291200",
+            "authid": "55321291200",
+            "authname": "Herring S.",
+            "surname": "Herring",
+            "given-name": "Stephanie C.",
+            "initials": "S.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55321291200",
+            "authid": "55321291200",
+            "authname": "Anel J.",
+            "surname": "Anel",
+            "given-name": "Juan A.",
+            "initials": "J.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55321291200",
+            "authid": "55321291200",
+            "authname": "Anel J.",
+            "surname": "Anel",
+            "given-name": "Juan A.",
+            "initials": "J.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55321291200",
+            "authid": "55321291200",
+            "authname": "Herring S.",
+            "surname": "Herring",
+            "given-name": "Stephanie C.",
+            "initials": "S.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031127"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/11241332500",
+            "authid": "11241332500",
+            "authname": "Barriopedro D.",
+            "surname": "Barriopedro",
+            "given-name": "David",
+            "initials": "D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/11241332500",
+            "authid": "11241332500",
+            "authname": "Barriopedro D.",
+            "surname": "Barriopedro",
+            "given-name": "David",
+            "initials": "D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36981285200",
+            "authid": "36981285200",
+            "authname": "Black M.",
+            "surname": "Black",
+            "given-name": "Mitchell T.",
+            "initials": "M.T."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36981285200",
+            "authid": "36981285200",
+            "authname": "Mitchell M.",
+            "surname": "Mitchell",
+            "given-name": "Mitchell T.",
+            "initials": "M.T."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36981285200",
+            "authid": "36981285200",
+            "authname": "Black M.",
+            "surname": "Black",
+            "given-name": "Mitchell T.",
+            "initials": "M.T."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "7",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8636336800",
+            "authid": "8636336800",
+            "authname": "Carey-Smith T.",
+            "surname": "Carey-Smith",
+            "given-name": "Trevor",
+            "initials": "T."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "8",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55670014500",
+            "authid": "55670014500",
+            "authname": "Castillo R.",
+            "surname": "Castillo",
+            "given-name": "Rodrigo",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "9",
+            "author-url": "https://api.elsevier.com/content/author/author_id/26645901500",
+            "authid": "26645901500",
+            "authname": "Cattiaux J.",
+            "surname": "Cattiaux",
+            "given-name": "Julien",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "10",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57131609600",
+            "authid": "57131609600",
+            "authname": "Chen X.",
+            "surname": "Chen",
+            "given-name": "Xiaolong",
+            "initials": "X."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "11",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56921175600",
+            "authid": "56921175600",
+            "authname": "Chen X.",
+            "surname": "Chen",
+            "given-name": "Xianyan",
+            "initials": "X."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "12",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36159440000",
+            "authid": "36159440000",
+            "authname": "Chevallier M.",
+            "surname": "Chevallier",
+            "given-name": "Matthieu",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "12",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36159440000",
+            "authid": "36159440000",
+            "authname": "Chevallier M.",
+            "surname": "Chevallier",
+            "given-name": "Matthieu",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "12",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36159440000",
+            "authid": "36159440000",
+            "authname": "Chevallier M.",
+            "surname": "Chevallier",
+            "given-name": "Matthieu",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "13",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "14",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487514000",
+            "authid": "56487514000",
+            "authname": "Ciavarella A.",
+            "surname": "Ciavarella",
+            "given-name": "Andrew",
+            "initials": "A."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "15",
+            "author-url": "https://api.elsevier.com/content/author/author_id/16202352000",
+            "authid": "16202352000",
+            "authname": "de Vries H.",
+            "surname": "de Vries",
+            "given-name": "Hylke",
+            "initials": "H."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "16",
+            "author-url": "https://api.elsevier.com/content/author/author_id/12804309300",
+            "authid": "12804309300",
+            "authname": "Dean S.",
+            "surname": "Dean",
+            "given-name": "Sam M.",
+            "initials": "S.M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "17",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487405100",
+            "authid": "56487405100",
+            "authname": "Deans K.",
+            "surname": "Deans",
+            "given-name": "Kirsten",
+            "initials": "K."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "18",
+            "author-url": "https://api.elsevier.com/content/author/author_id/13805883800",
+            "authid": "13805883800",
+            "authname": "Diffenbaugh N.",
+            "surname": "Diffenbaugh",
+            "given-name": "Noah S.",
+            "initials": "N.S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "18",
+            "author-url": "https://api.elsevier.com/content/author/author_id/13805883800",
+            "authid": "13805883800",
+            "authname": "Diffenbaugh N.",
+            "surname": "Diffenbaugh",
+            "given-name": "Noah S.",
+            "initials": "N.S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "19",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603432436",
+            "authid": "6603432436",
+            "authname": "Doblas-Reyes F.",
+            "surname": "Doblas-Reyes",
+            "given-name": "Francisco",
+            "initials": "F."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "19",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603432436",
+            "authid": "6603432436",
+            "authname": "Doblas-Reyes F.",
+            "surname": "Doblas-Reyes",
+            "given-name": "Francisco",
+            "initials": "F."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "20",
+            "author-url": "https://api.elsevier.com/content/author/author_id/17434022100",
+            "authid": "17434022100",
+            "authname": "Donat M.",
+            "surname": "Donat",
+            "given-name": "Markus G.",
+            "initials": "M.G."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "20",
+            "author-url": "https://api.elsevier.com/content/author/author_id/17434022100",
+            "authid": "17434022100",
+            "authname": "Donat M.",
+            "surname": "Donat",
+            "given-name": "Markus G.",
+            "initials": "M.G."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "21",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7103180783",
+            "authid": "7103180783",
+            "authname": "Dong B.",
+            "surname": "Dong",
+            "given-name": "Buwen",
+            "initials": "B."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "22",
+            "author-url": "https://api.elsevier.com/content/author/author_id/24450151500",
+            "authid": "24450151500",
+            "authname": "Eilerts G.",
+            "surname": "Eilerts",
+            "given-name": "Gary",
+            "initials": "G."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "23",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7102175039",
+            "authid": "7102175039",
+            "authname": "Funk C.",
+            "surname": "Funk",
+            "given-name": "Chris",
+            "initials": "C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "23",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7102175039",
+            "authid": "7102175039",
+            "authname": "Funk C.",
+            "surname": "Funk",
+            "given-name": "Chris",
+            "initials": "C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "24",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22934221900",
+            "authid": "22934221900",
+            "authname": "Galu G.",
+            "surname": "Galu",
+            "given-name": "Gideon",
+            "initials": "G."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "25",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56530887700",
+            "authid": "56530887700",
+            "authname": "Garcia-Herrera R.",
+            "surname": "Garcia-Herrera",
+            "given-name": "Ricardo",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "25",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56530887700",
+            "authid": "56530887700",
+            "authname": "Garcia-Herrera R.",
+            "surname": "Garcia-Herrera",
+            "given-name": "Ricardo",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "26",
+            "author-url": "https://api.elsevier.com/content/author/author_id/54408423800",
+            "authid": "54408423800",
+            "authname": "Germe A.",
+            "surname": "Germe",
+            "given-name": "Agathe",
+            "initials": "A."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "26",
+            "author-url": "https://api.elsevier.com/content/author/author_id/54408423800",
+            "authid": "54408423800",
+            "authname": "Germe A.",
+            "surname": "Germe",
+            "given-name": "Agathe",
+            "initials": "A."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "27",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7202284847",
+            "authid": "7202284847",
+            "authname": "Gill S.",
+            "surname": "Gill",
+            "given-name": "Stephen",
+            "initials": "S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "28",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7005151611",
+            "authid": "7005151611",
+            "authname": "Gimeno L.",
+            "surname": "Gimeno",
+            "given-name": "Luis",
+            "initials": "L."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "29",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22950688100",
+            "authid": "22950688100",
+            "authname": "Guemas V.",
+            "surname": "Guemas",
+            "given-name": "Virginie",
+            "initials": "V."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "29",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22950688100",
+            "authid": "22950688100",
+            "authname": "Guemas V.",
+            "surname": "Guemas",
+            "given-name": "Virginie",
+            "initials": "V."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "29",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22950688100",
+            "authid": "22950688100",
+            "authname": "Guemas V.",
+            "surname": "Guemas",
+            "given-name": "Virginie",
+            "initials": "V."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "30",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23090654000",
+            "authid": "23090654000",
+            "authname": "Hoell A.",
+            "surname": "Hoell",
+            "given-name": "Andrew",
+            "initials": "A."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "31",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603783890",
+            "authid": "6603783890",
+            "authname": "Huntingford C.",
+            "surname": "Huntingford",
+            "given-name": "Chris",
+            "initials": "C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "32",
+            "author-url": "https://api.elsevier.com/content/author/author_id/26531444800",
+            "authid": "26531444800",
+            "authname": "Imada Y.",
+            "surname": "Imada",
+            "given-name": "Yukiko",
+            "initials": "Y."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "33",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6506553716",
+            "authid": "6506553716",
+            "authname": "Husak G.",
+            "surname": "Husak",
+            "given-name": "Greg",
+            "initials": "G."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "34",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8507223000",
+            "authid": "8507223000",
+            "authname": "Ishii M.",
+            "surname": "Ishii",
+            "given-name": "Masayoshi",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "35",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55951225700",
+            "authid": "55951225700",
+            "authname": "Karoly D.",
+            "surname": "Karoly",
+            "given-name": "David J.",
+            "initials": "D.J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "35",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55951225700",
+            "authid": "55951225700",
+            "authname": "Karoly D.",
+            "surname": "Karoly",
+            "given-name": "David J.",
+            "initials": "D.J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "35",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55951225700",
+            "authid": "55951225700",
+            "authname": "Karoly D.",
+            "surname": "Karoly",
+            "given-name": "David J.",
+            "initials": "D.J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "36",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7102857642",
+            "authid": "7102857642",
+            "authname": "Kimoto M.",
+            "surname": "Kimoto",
+            "given-name": "Masahide",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "37",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55353698100",
+            "authid": "55353698100",
+            "authname": "King A.",
+            "surname": "King",
+            "given-name": "Andrew D.",
+            "initials": "A.D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "37",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55353698100",
+            "authid": "55353698100",
+            "authname": "King A.",
+            "surname": "King",
+            "given-name": "Andrew D.",
+            "initials": "A.D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "38",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003554208",
+            "authid": "7003554208",
+            "authname": "Knutson T.",
+            "surname": "Knutson",
+            "given-name": "Thomas R.",
+            "initials": "T.R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "39",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57200400501",
+            "authid": "57200400501",
+            "authname": "Lewis S.",
+            "surname": "Lewis",
+            "given-name": "Sophie C.",
+            "initials": "S.C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "39",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57200400501",
+            "authid": "57200400501",
+            "authname": "Lewis S.",
+            "surname": "Lewis",
+            "given-name": "Sophie C.",
+            "initials": "S.C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "39",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57200400501",
+            "authid": "57200400501",
+            "authname": "Lewis S.",
+            "surname": "Lewis",
+            "given-name": "Sophie C.",
+            "initials": "S.C."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "40",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56020489800",
+            "authid": "56020489800",
+            "authname": "Lin R.",
+            "surname": "Lin",
+            "given-name": "Renping",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "41",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7005753957",
+            "authid": "7005753957",
+            "authname": "Lyon B.",
+            "surname": "Lyon",
+            "given-name": "Bradfield",
+            "initials": "B."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "42",
+            "author-url": "https://api.elsevier.com/content/author/author_id/14421382400",
+            "authid": "14421382400",
+            "authname": "Massey N.",
+            "surname": "Massey",
+            "given-name": "Neil",
+            "initials": "N."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "42",
+            "author-url": "https://api.elsevier.com/content/author/author_id/14421382400",
+            "authid": "14421382400",
+            "authname": "Massey N.",
+            "surname": "Massey",
+            "given-name": "Neil",
+            "initials": "N."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "43",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487253500",
+            "authid": "56487253500",
+            "authname": "Mazza E.",
+            "surname": "Mazza",
+            "given-name": "Edoardo",
+            "initials": "E."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "44",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7003483600",
+            "authid": "7003483600",
+            "authname": "Michaelsen J.",
+            "surname": "Michaelsen",
+            "given-name": "Joel",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "45",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487420600",
+            "authid": "56487420600",
+            "authname": "Mollard J.",
+            "surname": "Mollard",
+            "given-name": "James",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "45",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487420600",
+            "authid": "56487420600",
+            "authname": "Mollard J.",
+            "surname": "Mollard",
+            "given-name": "James",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "46",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36017183900",
+            "authid": "36017183900",
+            "authname": "Mori M.",
+            "surname": "Mori",
+            "given-name": "Masato",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "47",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004643742",
+            "authid": "7004643742",
+            "authname": "Mote P.",
+            "surname": "Mote",
+            "given-name": "Philip W.",
+            "initials": "P.W."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "48",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203048771",
+            "authid": "57203048771",
+            "authname": "Nieto R.",
+            "surname": "Nieto",
+            "given-name": "Raquel",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "49",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55278121100",
+            "authid": "55278121100",
+            "authname": "Otto F.",
+            "surname": "Otto",
+            "given-name": "Friederike E.L.",
+            "initials": "F.E.L."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "50",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8853052700",
+            "authid": "8853052700",
+            "authname": "Park J.",
+            "surname": "Park",
+            "given-name": "Joseph",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "51",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203073289",
+            "authid": "57203073289",
+            "authname": "Perkins S.",
+            "surname": "Perkins",
+            "given-name": "Sarah E.",
+            "initials": "S.E."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "51",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203073289",
+            "authid": "57203073289",
+            "authname": "Perkins S.",
+            "surname": "Perkins",
+            "given-name": "Sarah E.",
+            "initials": "S.E."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "52",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6602170016",
+            "authid": "6602170016",
+            "authname": "Rosier S.",
+            "surname": "Rosier",
+            "given-name": "Suzanne",
+            "initials": "S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "52",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6602170016",
+            "authid": "6602170016",
+            "authname": "Rosier S.",
+            "surname": "Rosier",
+            "given-name": "Suzanne",
+            "initials": "S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "53",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7102351461",
+            "authid": "7102351461",
+            "authname": "Rowland J.",
+            "surname": "Rowland",
+            "given-name": "James",
+            "initials": "J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "54",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22935810000",
+            "authid": "22935810000",
+            "authname": "Rupp D.",
+            "surname": "Rupp",
+            "given-name": "David E.",
+            "initials": "D.E."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "55",
+            "author-url": "https://api.elsevier.com/content/author/author_id/15828193000",
+            "authid": "15828193000",
+            "authname": "Salas y Melia D.",
+            "surname": "Salas y Melia",
+            "given-name": "David",
+            "initials": "D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "55",
+            "author-url": "https://api.elsevier.com/content/author/author_id/15828193000",
+            "authid": "15828193000",
+            "authname": "Salas y Melia D.",
+            "surname": "Salas y Melia",
+            "given-name": "David",
+            "initials": "D."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "56",
+            "author-url": "https://api.elsevier.com/content/author/author_id/48661358800",
+            "authid": "48661358800",
+            "authname": "Scherer M.",
+            "surname": "Scherer",
+            "given-name": "Martin",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "56",
+            "author-url": "https://api.elsevier.com/content/author/author_id/48661358800",
+            "authid": "48661358800",
+            "authname": "Scherer M.",
+            "surname": "Scherer",
+            "given-name": "Martin",
+            "initials": "M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "57",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "58",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23978908300",
+            "authid": "23978908300",
+            "authname": "Shukla S.",
+            "surname": "Shukla",
+            "given-name": "Shraddhanand",
+            "initials": "S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "59",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55656523500",
+            "authid": "55656523500",
+            "authname": "Song F.",
+            "surname": "Song",
+            "given-name": "Fengfei",
+            "initials": "F."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "60",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487336100",
+            "authid": "56487336100",
+            "authname": "Sparrow S.",
+            "surname": "Sparrow",
+            "given-name": "Sarah",
+            "initials": "S."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "61",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7402401574",
+            "authid": "7402401574",
+            "authname": "Sutton R.",
+            "surname": "Sutton",
+            "given-name": "Rowan",
+            "initials": "R."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "62",
+            "author-url": "https://api.elsevier.com/content/author/author_id/24328913000",
+            "authid": "24328913000",
+            "authname": "Sweet W.",
+            "surname": "Sweet",
+            "given-name": "William",
+            "initials": "W."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "63",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7006280684",
+            "authid": "7006280684",
+            "authname": "Tett S.",
+            "surname": "Tett",
+            "given-name": "Simon F.B.",
+            "initials": "S.F.B."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "64",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603764342",
+            "authid": "6603764342",
+            "authname": "Trigo R.",
+            "surname": "Trigo",
+            "given-name": "Ricardo Machado",
+            "initials": "R.M."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "65",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6701843355",
+            "authid": "6701843355",
+            "authname": "van Oldenborgh G.",
+            "surname": "van Oldenborgh",
+            "given-name": "Geert Jan",
+            "initials": "G.J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "66",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6507468468",
+            "authid": "6507468468",
+            "authname": "van Westrhenen R.",
+            "surname": "van Westrhenen",
+            "given-name": "Rudolf",
+            "initials": "R."
+          }
+        ],
+        "message": "Author list of 109 truncated at 100; retrieve the full abstract for a complete list of authors.",
+        "source-id": "12074",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84896905162"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84896905162?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84896905162&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84896905162&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84896905162",
+        "dc:identifier": "SCOPUS_ID:84896905162",
+        "eid": "2-s2.0-84896905162",
+        "dc:title": "Change in the odds of warm years and seasons due to anthropogenic influence on the climate",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Journal of Climate",
+        "prism:issn": "08948755",
+        "prism:volume": "27",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "2607-2621",
+        "prism:coverDate": "2014-01-01",
+        "prism:coverDisplayDate": "April 2014",
+        "prism:doi": "10.1175/JCLI-D-13-00563.1",
+        "dc:description": "The new Hadley Centre system for attribution of weather and climate extremes provides assessments of how human influence on the climate may lead to a change in the frequency of such events. Two different types of ensembles of simulations are generated with an atmospheric model to represent the actual climate and what the climate would have been in the absence of human influence. Estimates of the event frequency with and without the anthropogenic effect are then obtained. Three experiments conducted so far with the new system are analyzed in this study to examine how anthropogenic forcings change the odds of warm years, summers, or winters in a number of regions where the model reliably reproduces the frequency of warm events. In all cases warm events become more likely because of human influence, but estimates of the likelihood may vary considerably from year to year depending on the ocean temperature. While simulations of the actual climate use prescribed observational data of sea surface temperature and sea ice, simulations of the nonanthropogenic world also rely on coupled atmosphere-ocean models to provide boundary conditions, and this is found to introduce a major uncertainty in attribution assessments. Improved boundary conditions constructed with observational data are introduced in order to minimize this uncertainty. In more than half of the 10 cases considered here anthropogenic influence results in warm events being 3 times more likely and extreme events 5 times more likely during September 2011-August 2012, as an experiment with the new boundary conditions indicates.",
+        "citedby-count": "24",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "13550",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883397689"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84883397689?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84883397689&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84883397689&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84883397689",
+        "dc:identifier": "SCOPUS_ID:84883397689",
+        "eid": "2-s2.0-84883397689",
+        "dc:title": "Anthropogenic impact on Earth's hydrological cycle",
+        "dc:creator": "Wu P.",
+        "prism:publicationName": "Nature Climate Change",
+        "prism:issn": "1758678X",
+        "prism:eIssn": "17586798",
+        "prism:volume": "3",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "807-810",
+        "prism:coverDate": "2013-09-01",
+        "prism:coverDisplayDate": "September 2013",
+        "prism:doi": "10.1038/nclimate1932",
+        "pii": "NCLIMATE1932",
+        "dc:description": "The global hydrological cycle is a key component of Earth's climate system. A significant amount of the energy the Earth receives from the Sun is redistributed around the world by the hydrological cycle in the form of latent heat flux. Changes in the hydrological cycle have a direct impact on droughts, floods, water resources and ecosystem services. Observed land precipitation and global river discharges do not show an increasing trend as might be expected in a warming world. Here we show that this apparent discrepancy can be resolved when the effects of tropospheric aerosols are considered. Analysing state-of-the-art climate model simulations, we find for the first time that there was a detectable weakening of the hydrological cycle between the 1950s and the 1980s, attributable to increased anthropogenic aerosols, after which the hydrological cycle recovered as a result of increasing greenhouse gas concentrations. The net result of these two counter-acting effects is an insignificant trend in the global hydrological cycle, but the individual influence of each is substantial. Reductions in air pollution have already shown an intensification in the past two decades and a further rapid increase in precipitation could be expected if the current trend continues. © 2013 Macmillan Publishers Limited. All rights reserved.",
+        "citedby-count": "83",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7403119519",
+            "authid": "7403119519",
+            "authname": "Wu P.",
+            "surname": "Wu",
+            "given-name": "Peili",
+            "initials": "P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter",
+            "initials": "P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "21100198409",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881148711"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84881148711?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84881148711&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84881148711&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84881148711",
+        "dc:identifier": "SCOPUS_ID:84881148711",
+        "eid": "2-s2.0-84881148711",
+        "dc:title": "Attribution of observed historical near-surface temperature variations to anthropogenic and natural causes using CMIP5 simulations",
+        "dc:creator": "Jones G.",
+        "prism:publicationName": "Journal of Geophysical Research Atmospheres",
+        "prism:eIssn": "21698996",
+        "prism:volume": "118",
+        "prism:issueIdentifier": "10",
+        "prism:pageRange": "4001-4024",
+        "prism:coverDate": "2013-05-27",
+        "prism:coverDisplayDate": "27 May 2013",
+        "prism:doi": "10.1002/jgrd.50239",
+        "dc:description": "We have carried out an investigation into the causes of changes in near-surface temperatures from 1860 to 2010. We analyze the HadCRUT4 observational data set which has the most comprehensive set of adjustments available to date for systematic biases in sea surface temperatures and the CMIP5 ensemble of coupled models which represents the most sophisticated multi-model climate modeling exercise yet carried out. Simulations that incorporate both anthropogenic and natural factors span changes in observed temperatures between 1860 and 2010, while simulations of natural factors do not warm as much as observed. As a result of sampling a much wider range of structural modeling uncertainty, we find a wider spread of historic temperature changes in CMIP5 than was simulated by the previous multi-model ensemble, CMIP3. However, calculations of attributable temperature trends based on optimal detection support previous conclusions that human-induced greenhouse gases dominate observed global warming since the mid-20th century. With a much wider exploration of model uncertainty than previously carried out, we find that individually the models give a wide range of possible counteracting cooling from the direct and indirect effects of aerosols and other non-greenhouse gas anthropogenic forcings. Analyzing the multi-model mean over 1951-2010 (focusing on the most robust result), we estimate a range of possible contributions to the observed warming of approximately 0.6 K from greenhouse gases of between 0.6 and 1.2 K, balanced by a counteracting cooling from other anthropogenic forcings of between 0 and -0.5 K. Key PointsLatest dataset of historic temperatures compared with multi model ensembleCMIP5 models have wider range of global mean warming than CMIP3 modelsMultimodel attribution analysis shows greenhouse gases dominate warming ©2013. Crown copyright. This article is published with the permission of the Controller of HMSO and the Queen's Printer for Scotland.",
+        "citedby-count": "110",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "Gareth S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "climate change | climate models | observational datasets | temperature change",
+        "source-id": "28428",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876933022"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876933022?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876933022&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84876933022&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84876933022",
+        "dc:identifier": "SCOPUS_ID:84876933022",
+        "eid": "2-s2.0-84876933022",
+        "dc:title": "A new HADGEM3-a-based system for attribution of weather- and climate-related extreme events",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Journal of Climate",
+        "prism:issn": "08948755",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "2756-2783",
+        "prism:coverDate": "2013-05-16",
+        "prism:coverDisplayDate": "2013",
+        "prism:doi": "10.1175/JCLI-D-12-00169.1",
+        "dc:description": "A new system for attribution of weather and climate extreme events has been developed based on the atmospheric component of the latest Hadley Centre model. The model is run with either observational data of sea surface temperature and sea ice or estimates of what their values would be without the effect of anthropogenic climatic forcings. In that way, ensembles of simulations are produced that represent the climate with and without the effect of human influences. A comparison between the ensembles provides estimates of the change in the frequency of extremes due to anthropogenic forcings. To evaluate the new system, reliability diagrams are constructed, which compare the model-derived probability of extreme events with their observed frequency. The ability of the model to reproduce realistic distributions of relevant climatic variables is another key aspect of the system evaluation. Results are then presented from analyses of three recent highimpact events: the 2009/10 cold winter in the United Kingdom, the heat wave in Moscow in July 2010, and floods in Pakistan in July 2010. An evaluation assessment indicates the model can provide reliable results for the U.K. and Moscow events but not for Pakistan. It is found that without anthropogenic forcings winters in the United Kingdom colder than 2009/10 would be 7-10 times (best estimate) more common. Although anthropogenic forcings increase the likelihood of heat waves in Moscow, the 2010 event is found to be very uncommon and associated with a return time of several hundred years. No reliable attribution assessment can be made for high-precipitation events in Pakistan. © 2013 American Meteorological Society.",
+        "citedby-count": "72",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "8"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603887794",
+            "authid": "6603887794",
+            "authname": "Scaife A.",
+            "surname": "Scaife",
+            "given-name": "Adam A.",
+            "initials": "A.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56899142800",
+            "authid": "56899142800",
+            "authname": "Arribas A.",
+            "surname": "Arribas",
+            "given-name": "Alberto",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "Gareth S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/16177522400",
+            "authid": "16177522400",
+            "authname": "Copsey D.",
+            "surname": "Copsey",
+            "given-name": "Dan",
+            "initials": "D.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "7",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7401751388",
+            "authid": "7401751388",
+            "authname": "Knight J.",
+            "surname": "Knight",
+            "given-name": "Jeff R.",
+            "initials": "J.R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "8",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7006176909",
+            "authid": "7006176909",
+            "authname": "Tennant W.",
+            "surname": "Tennant",
+            "given-name": "Warren J.",
+            "initials": "W.J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "13550",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876931533"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876931533?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876931533&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84876931533&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84876931533",
+        "dc:identifier": "SCOPUS_ID:84876931533",
+        "eid": "2-s2.0-84876931533",
+        "dc:title": "Can the 2011 East African drought be attributed to human-induced climate change?",
+        "dc:creator": "Lott F.",
+        "prism:publicationName": "Geophysical Research Letters",
+        "prism:issn": "00948276",
+        "prism:eIssn": "19448007",
+        "prism:volume": "40",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1177-1181",
+        "prism:coverDate": "2013-03-28",
+        "prism:coverDisplayDate": "28 March 2013",
+        "prism:doi": "10.1002/grl.50235",
+        "dc:description": "This study applies the technique of event attribution to the East African rainy seasons preceding the drought of 2011. Using observed sea surface temperatures (SSTs), and sea ice conditions with a state-of-the-art atmosphere model, the precipitation totals during late 2010 (the \"short rains\") and early 2011 (the \"long rains\") were simulated hundreds of times to produce possible distributions of precipitation. Alternative distributions of precipitation were produced, consistent with a world with neither anthropogenic forcings nor human influence on SSTs and sea ice. Comparing these modeled distributions to the observed rainfall, no evidence was found for human influence on the 2010 short rains, with their failure being affected by La Niña. However, human influence was found to increase the probability of long rains as dry as, or drier than, 2011. The magnitude of increase in probability depends on the estimated pattern by which human influence changed observed SSTs. Key Points Changes in the probability of failure of East African rainy seasons are examined 2010 short rains failure shows strong influence from La Niña 2011 long rains failure was made more probable due to human influence. ©2013 American Geophysical Union. All Rights Reserved.",
+        "citedby-count": "58",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55670287400",
+            "authid": "55670287400",
+            "authname": "Lott F.",
+            "surname": "Lott",
+            "given-name": "Fraser C.",
+            "initials": "F.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Africa | attribution | drought | La Niña",
+        "source-id": "27962",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876806601"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876806601?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876806601&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84876806601&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84876806601",
+        "dc:identifier": "SCOPUS_ID:84876806601",
+        "eid": "2-s2.0-84876806601",
+        "dc:title": "Models versus radiosondes in the free atmosphere: A new detection and attribution analysis of temperature",
+        "dc:creator": "Lott F.",
+        "prism:publicationName": "Journal of Geophysical Research Atmospheres",
+        "prism:eIssn": "21698996",
+        "prism:volume": "118",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "2609-2619",
+        "prism:coverDate": "2013-03-27",
+        "prism:coverDisplayDate": "27 March 2013",
+        "prism:doi": "10.1002/jgrd.50255",
+        "dc:description": "[1] This analysis revisits detection and attribution of free atmosphere temperatures from radiosondes, almost a decade after previous studies. Since that time, data sets have not only become longer, but understanding of observational uncertainty has vastly improved. In addition, a coordinated set of experiments exploring the effects of human and natural forcings on past climate change has been made with a new generation of climate models. These advances allow a much more thorough analysis of the effects of modeling and observational uncertainty on attribution results than previously possible. Observational uncertainty is explored using multiple radiosonde reconstructions including those with ensembles of realizations exploring the effects of processing choices. Modeling uncertainty is explored by calculating multiple fingerprints of natural influence (from changes in solar irradiance and volcanic aerosols) and of human influence (due to greenhouse gases and due to the effects of combined anthropogenic forcings including stratospheric ozone depletion). With increased confidence over previous studies, human influences (both greenhouse gas and other anthropogenic forcings) have been detected in spatiotemporal changes in free atmosphere temperature from 1961 to 2010, irrespective of whether the full atmospheric column (30-850 hPa) is examined or purely the troposphere, with stratospheric ozone depletion dominating the cooling that has been observed in the lower stratosphere. Thus the advances of the last decade yield increased confidence that anthropogenic influences have made a substantial contribution to the evolution of free atmosphere temperatures. © 2013. American Geophysical Union. All Rights Reserved.",
+        "citedby-count": "20",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60026851",
+            "afid": "60026851",
+            "affilname": "University of Oxford",
+            "affiliation-city": "Oxford",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000673",
+            "afid": "60000673",
+            "affilname": "Environment Canada",
+            "affiliation-city": "Gatineau",
+            "affiliation-country": "Canada"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60025988",
+            "afid": "60025988",
+            "affilname": "Universitat Wien",
+            "affiliation-city": "Vienna",
+            "affiliation-country": "Austria"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000221",
+            "afid": "60000221",
+            "affilname": "University of Colorado at Boulder",
+            "affiliation-city": "Boulder",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60004923",
+            "afid": "60004923",
+            "affilname": "North Carolina State University",
+            "affiliation-city": "Raleigh",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "8"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55670287400",
+            "authid": "55670287400",
+            "authname": "Lott F.",
+            "surname": "Lott",
+            "given-name": "F. C.",
+            "initials": "F.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "P. A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/36102858600",
+            "authid": "36102858600",
+            "authname": "Mitchell D.",
+            "surname": "Mitchell",
+            "given-name": "D. M.",
+            "initials": "D.M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60026851"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "N.",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7006130951",
+            "authid": "7006130951",
+            "authname": "Gillett N.",
+            "surname": "Gillett",
+            "given-name": "N. P.",
+            "initials": "N.P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000673"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6603267637",
+            "authid": "6603267637",
+            "authname": "Haimberger L.",
+            "surname": "Haimberger",
+            "given-name": "L.",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025988"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "7",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6701348935",
+            "authid": "6701348935",
+            "authname": "Perlwitz J.",
+            "surname": "Perlwitz",
+            "given-name": "J.",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000221"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "8",
+            "author-url": "https://api.elsevier.com/content/author/author_id/9272538400",
+            "authid": "9272538400",
+            "authname": "Thorne P.",
+            "surname": "Thorne",
+            "given-name": "P. W.",
+            "initials": "P.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60004923"
+              }
+            ]
+          }
+        ],
+        "source-id": "28428",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84874814044"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84874814044?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84874814044&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84874814044&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84874814044",
+        "dc:identifier": "SCOPUS_ID:84874814044",
+        "eid": "2-s2.0-84874814044",
+        "dc:title": "Detectable changes in the frequency of temperature extremes",
+        "dc:creator": "Morak S.",
+        "prism:publicationName": "Journal of Climate",
+        "prism:issn": "08948755",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1561-1574",
+        "prism:coverDate": "2013-03-01",
+        "prism:coverDisplayDate": "March 2013",
+        "prism:doi": "10.1175/JCLI-D-11-00678.1",
+        "dc:description": "This study determines whether observed recent changes in the frequency of hot and cold extremes over land can be explained by climate variability or whether they show a detectable response to external influences. The authors analyze changes in the frequency of moderate-to-extreme daily temperatures-namely, the number of days exceeding the 90th percentile and the number of days not reaching the 10th percentile of daily minimum (tn90 and tn10, respectively) and maximum (tx90 and tx10, respectively) temperature-for both cold and warmseasons. The analysis is performed on a range of spatial scales and separately for boreal cold-and warm-season data. The fingerprint for external forcing is derived from an ensemble of simulations produced with the Hadley Centre Global Environmental Model, version 1 (HadGEM1), with both anthropogenic and natural forcings. The observations show an increase in warm extremes and a decrease in cold extremes in both seasons and in almost all regions that are generally well captured by the model. Some regional differences between model and observations may be due to local forcings or changes in climate dynamics. A detection analysis, using both optimized and nonoptimized fingerprints, shows that the influence of external forcing is detectable in observations for both cold and warm extremes, and cold and warm seasons, over the period 1951-2003 at the 5% level. It is also detectable separately for the Northern and Southern Hemispheres, and over most regions analyzed. The model shows a tendency to significantly overestimate changes in warm daytime extremes, particularly in summer. © 2013 American Meteorological Society.",
+        "citedby-count": "68",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60027272",
+            "afid": "60027272",
+            "affilname": "University of Edinburgh",
+            "affiliation-city": "Edinburgh",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/50262620500",
+            "authid": "50262620500",
+            "authname": "Morak S.",
+            "surname": "Morak",
+            "given-name": "Simone",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027272"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203054070",
+            "authid": "57203054070",
+            "authname": "Hegerl G.",
+            "surname": "Hegerl",
+            "given-name": "Gabriele C.",
+            "initials": "G.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027272"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Climate change | Climate variability | Extreme events | Temperature",
+        "source-id": "13550",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876947775"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876947775?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876947775&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84876947775&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84876947775",
+        "dc:identifier": "SCOPUS_ID:84876947775",
+        "eid": "2-s2.0-84876947775",
+        "dc:title": "The role of land use change in the recent warming of daily extreme temperatures",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Geophysical Research Letters",
+        "prism:issn": "00948276",
+        "prism:eIssn": "19448007",
+        "prism:volume": "40",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "589-594",
+        "prism:coverDate": "2013-02-16",
+        "prism:coverDisplayDate": "16 February 2013",
+        "prism:doi": "10.1002/grl.50159",
+        "dc:description": "Understanding how temperature extremes respond in a climate forced by human activity is of great importance, as extreme temperatures are detrimental to health and often responsible for mortality increases. While previous detection and attribution studies demonstrated a significant human influence on the recent warming of daily extremes, contributions of individual anthropogenic forcings like changes in land use have not yet been investigated in such studies. Here we apply an optimal fingerprinting technique to data from observations and experiments with a new earth system model to examine whether changing land use has led to detectable changes in daily extreme temperatures on a quasi-global scale. We find that loss of trees and increase of grassland since preindustrial times has caused an overall cooling trend in both mean and extreme temperatures which is detectable in the observed changes of warm but not cold extremes. The warming in both mean and extreme temperatures due to anthropogenic forcings other than land use is detected in all cases, whereas the weaker effect of natural climatic forcings is not detected in any. This is the first formal attribution of observed climatic changes to changing land use, suggesting further investigations are justified, particularly in studies of warm extremes. Key Points Global cooling due to changing land use has a detectable impact on warm extremes Global warming in mean/extreme temperatures due to other forcings is detectable The land use effect is detected for the first time in a formal attribution study ©2013. American Geophysical Union. All Rights Reserved.",
+        "citedby-count": "44",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60027272",
+            "afid": "60027272",
+            "affilname": "University of Edinburgh",
+            "affiliation-city": "Edinburgh",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203054070",
+            "authid": "57203054070",
+            "authname": "Hegerl G.",
+            "surname": "Hegerl",
+            "given-name": "Gabriele C.",
+            "initials": "G.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027272"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55206018900",
+            "authid": "55206018900",
+            "authname": "Betts R.",
+            "surname": "Betts",
+            "given-name": "Richard A.",
+            "initials": "R.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Detection and Attribution | Land Use | Temperature Extremes",
+        "source-id": "27962",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84921361787"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84921361787?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84921361787&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84921361787&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84921361787",
+        "dc:identifier": "SCOPUS_ID:84921361787",
+        "eid": "2-s2.0-84921361787",
+        "dc:title": "An attribution study of the heavy rainfall over Eastern Australia in March 2012",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Bulletin of the American Meteorological Society",
+        "prism:issn": "00030007",
+        "prism:volume": "94",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": "S58-S61",
+        "prism:coverDate": "2013-01-01",
+        "prism:coverDisplayDate": "1 September 2013",
+        "dc:description": "Heavy rains at the end of summer 2012 across eastern Australia led to swollen rivers and widespread flooding that swamped agricultural land, caused loss of life, and forced tens of thousands of people to evacuate their homes. Using the Attribution of extreme weather and Climate Events (ACE) methodology it was found that the overall long-term effect of human influences on the climate increases the chances of above-average rainfall by 5%-15% although the impact on extreme precipitation is much more uncertain. Even when all climatic forcings are accounted for, the observed rainfall in March 2012 lies in the far tail of the expected rainfall distribution from the ACE ensembles.",
+        "citedby-count": "13",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55951225700",
+            "authid": "55951225700",
+            "authname": "Karoly D.",
+            "surname": "Karoly",
+            "given-name": "David J.",
+            "initials": "D.J."
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/56487514000",
+            "authid": "56487514000",
+            "authname": "Ciavarella A.",
+            "surname": "Ciavarella",
+            "given-name": "Andrew",
+            "initials": "A."
+          }
+        ],
+        "source-id": "12074",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84866411817"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84866411817?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84866411817&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84866411817&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84866411817",
+        "dc:identifier": "SCOPUS_ID:84866411817",
+        "eid": "2-s2.0-84866411817",
+        "dc:title": "The contribution of anthropogenic forcings to regional changes in temperature during the last decade",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Climate Dynamics",
+        "prism:issn": "09307575",
+        "prism:eIssn": "14320894",
+        "prism:volume": "39",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1259-1274",
+        "prism:coverDate": "2012-09-01",
+        "prism:coverDisplayDate": "September 2012",
+        "prism:doi": "10.1007/s00382-011-1184-0",
+        "dc:description": "Regional distributions of the mean annual temperature in the 2000s are computed with and without the effect of anthropogenic influences on the climate in several sub-continental regions. Simulated global patterns of the temperature response to external forcings are regressed against observations using optimal fingerprinting. The global analysis provides constraints which are then used to construct the regional temperature distributions. A similar approach was also employed in previous work, but here the methodology is extended to examine changes in any region, including areas with a poor observational coverage that were omitted in the earlier study. Two different General Circulation Models (GCMs) are used in the analysis. Anthropogenic forcings are found to have at least quadrupled the likelihood of occurrence of a year warmer than the warmest year since 1900 in 23 out of the 24 regions. The temperature distributions computed with the two models are very similar. While a more detailed assessment of model dependencies remains to be made once additional suitable GCM simulations become available, the present study introduces the statistical methodology and demonstrates its first application. The derived information concerning the effect of human influences on the regional climate is useful for adaptation planning. Moreover, by pre-computing the change in the likelihood of exceeding a temperature threshold over a range of thresholds, this kind of analysis enables a near real-time assessment of the anthropogenic impact on the observed regional temperatures. © 2011 Crown Copyright.",
+        "citedby-count": "28",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60003122",
+            "afid": "60003122",
+            "affilname": "University of Victoria",
+            "affiliation-city": "Victoria",
+            "affiliation-country": "Canada"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030939",
+            "afid": "60030939",
+            "affilname": "National Institute for Environmental Studies of Japan",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004861251",
+            "authid": "7004861251",
+            "authname": "Zwiers F.",
+            "surname": "Zwiers",
+            "given-name": "Francis W.",
+            "initials": "F.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60003122"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10240710000",
+            "authid": "10240710000",
+            "authname": "Nozawa T.",
+            "surname": "Nozawa",
+            "given-name": "Toru",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Anthropogenic forcings | Detection and attribution | Regional temperature",
+        "source-id": "12172",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84855966587"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84855966587?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84855966587&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84855966587&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84855966587",
+        "dc:identifier": "SCOPUS_ID:84855966587",
+        "eid": "2-s2.0-84855966587",
+        "dc:title": "Human activity and anomalously warm seasons in Europe",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "International Journal of Climatology",
+        "prism:issn": "08998418",
+        "prism:eIssn": "10970088",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "225-239",
+        "prism:coverDate": "2012-02-01",
+        "prism:coverDisplayDate": "February 2012",
+        "prism:doi": "10.1002/joc.2262",
+        "dc:description": "Seasonal mean temperatures averaged over the European region have warmed at a rate of 0.35-0.52 K/decade since 1980. The last decade has seen record-breaking seasonal temperatures in Europe including the summer of 2003 and the spring, autumn, and winter of 2007. Previous studies have established that European summer warming since the early twentieth century can be attributed to the effects of human influence. The attribution analysis described here employs temperature data from observations and experiments with two climate models and uses optimal fingerprinting to partition the climate response between its anthropogenic and natural components. These responses are subsequently combined with estimates of unforced climate variability to construct distributions of the annual values of seasonal mean temperatures with and without the effect of human activity. We find that in all seasons, anthropogenic forcings have shifted the temperature distributions towards higher values. We compute the associated change in the likelihood of having seasons whose temperatures exceed a pre-specified threshold. We first set the threshold equal to the seasonal temperature observed in a particular year to assess the effect of anthropogenic influences in past seasons. We find that in the last decade (1999-2008) it is extremely likely (probability greater than 95%) that the probability has more than doubled under the influence of human activity in spring and autumn, while for summer it is extremely likely that the probability has at least quadrupled. One of the two models employed in the analysis indicates it is extremely likely the probability has more than doubled in winter too. We also compute the change in probability over a range of temperature thresholds which enables us to provide updates on the likely change in probability attributable to human influence as soon as observations become available. Such near-real time information could be very useful for adaptation planning. © 2010.",
+        "citedby-count": "29",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030939",
+            "afid": "60030939",
+            "affilname": "National Institute for Environmental Studies of Japan",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60017134",
+            "afid": "60017134",
+            "affilname": "Justus Liebig University Giessen",
+            "affiliation-city": "Giessen",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "6"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "Gareth S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10240710000",
+            "authid": "10240710000",
+            "authname": "Nozawa T.",
+            "surname": "Nozawa",
+            "given-name": "Toru",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/6701818964",
+            "authid": "6701818964",
+            "authname": "Luterbacher J.",
+            "surname": "Luterbacher",
+            "given-name": "Jürg",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60017134"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Detection and attribution | Regional climate change | Temperature extremes",
+        "source-id": "13507",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/81555202459"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/81555202459?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=81555202459&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=81555202459&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/81555202459",
+        "dc:identifier": "SCOPUS_ID:81555202459",
+        "eid": "2-s2.0-81555202459",
+        "dc:title": "Changing return periods of weather-related impacts: The attribution challenge",
+        "dc:creator": "Stott P.",
+        "prism:publicationName": "Climatic Change",
+        "prism:issn": "01650009",
+        "prism:volume": "109",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "263-268",
+        "prism:coverDate": "2011-12-01",
+        "prism:coverDisplayDate": "December 2011",
+        "prism:doi": "10.1007/s10584-011-0265-8",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55206018900",
+            "authid": "55206018900",
+            "authname": "Betts R.",
+            "surname": "Betts",
+            "given-name": "Richard A.",
+            "initials": "R.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "12177",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79958138479"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79958138479?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=79958138479&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79958138479&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/79958138479",
+        "dc:identifier": "SCOPUS_ID:79958138479",
+        "eid": "2-s2.0-79958138479",
+        "dc:title": "The role of human activity in the recent warming of extremely warm daytime temperatures",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Journal of Climate",
+        "prism:issn": "08948755",
+        "prism:volume": "24",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "1922-1930",
+        "prism:coverDate": "2011-04-01",
+        "prism:coverDisplayDate": "April 2011",
+        "prism:doi": "10.1175/2011JCLI4150.1",
+        "dc:description": "Formal detection and attribution analyses of changes in daily extremes give evidence of a significant human influence on the increasing severity of extremely warm nights and decreasing severity of extremely cold days and nights. This paper presents an optimal fingerprinting analysis that also detects the contributions of external forcings to recent changes in extremely warm days using nonstationary extreme value theory. The authors' analysis is the first that attempts to partition the observed change in warm daytime extremes between its anthropogenic and natural components and hence attribute part of the change to possible causes. Changes in the extreme temperatures are represented by the temporal changes in a parameter of an extreme value distribution. Regional distributions of the trend in the parameter are computed with and without human influence using constraints from the global optimal fingerprinting analysis. Anthropogenic forcings alter the regional distributions, indicating that extremely warm days have become hotter. © 2011 American Meteorological Society.",
+        "citedby-count": "76",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55365584100",
+            "authid": "55365584100",
+            "authname": "Brown S.",
+            "surname": "Brown",
+            "given-name": "Simon J.",
+            "initials": "S.J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Anthropogenic effects | Climate change | Climate models | Extreme events | Surface observations | Temperature",
+        "source-id": "13550",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79954574778"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79954574778?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=79954574778&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79954574778&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/79954574778",
+        "dc:identifier": "SCOPUS_ID:79954574778",
+        "eid": "2-s2.0-79954574778",
+        "dc:title": "Single-step attribution of increasing frequencies of very warm regional temperatures to human influence",
+        "dc:creator": "Stott P.",
+        "prism:publicationName": "Atmospheric Science Letters",
+        "prism:eIssn": "1530261X",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "220-227",
+        "prism:coverDate": "2011-04-01",
+        "prism:coverDisplayDate": "April 2011",
+        "prism:doi": "10.1002/asl.315",
+        "dc:description": "Seasonal near-surface temperatures have increased in many regions of the World. Previous work has shown that this has led to rapidly increasing frequencies of very warm Northern Hemisphere summer temperatures. Here we show, using a 'single-step' attribution framework, that increases in frequencies of very warm seasonal temperatures, not just in Northern Hemisphere summers but in other regions and seasons, can be directly attributed to human influence. In the June-August and September-November seasons, many of the sub-continental regions of Africa and Asia show robust attributable increase in the frequencies of anomalously warm seasonal temperatures. © 2011 Royal Meteorological Society.",
+        "citedby-count": "27",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000673",
+            "afid": "60000673",
+            "affilname": "Environment Canada",
+            "affiliation-city": "Gatineau",
+            "affiliation-country": "Canada"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60027272",
+            "afid": "60027272",
+            "affilname": "University of Edinburgh",
+            "affiliation-city": "Edinburgh",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030939",
+            "afid": "60030939",
+            "affilname": "National Institute for Environmental Studies of Japan",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "6"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "Gareth S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004861251",
+            "authid": "7004861251",
+            "authname": "Zwiers F.",
+            "surname": "Zwiers",
+            "given-name": "Francis W.",
+            "initials": "F.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000673"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57203054070",
+            "authid": "57203054070",
+            "authname": "Hegerl G.",
+            "surname": "Hegerl",
+            "given-name": "Gabriele",
+            "initials": "G.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027272"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Attribution | Climate | Regional temperatures",
+        "source-id": "12093",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79251519317"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/79251519317?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=79251519317&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=79251519317&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/79251519317",
+        "dc:identifier": "SCOPUS_ID:79251519317",
+        "eid": "2-s2.0-79251519317",
+        "dc:title": "Detecting the influence of fossil fuel and bio-fuel black carbon aerosols on near surface temperature changes",
+        "dc:creator": "Jones G.",
+        "prism:publicationName": "Atmospheric Chemistry and Physics",
+        "prism:issn": "16807316",
+        "prism:eIssn": "16807324",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "799-816",
+        "prism:coverDate": "2011-01-31",
+        "prism:coverDisplayDate": "2011",
+        "prism:doi": "10.5194/acp-11-799-2011",
+        "dc:description": "Past research has shown that the dominant in-fluence on recent global climate changes is from anthropogenic greenhouse gas increases with implications for future increases in global temperatures. One mitigation proposal is to reduce black carbon aerosol emissions. How much warming can be offset by controlling black carbon is unclear, especially as its influence on past climate has not been previously unambiguously detected. In this study observations of near-surface warming over the last century are compared with simulations using a climate model, HadGEM1. In the simulations black carbon, from fossil fuel and biofuel sources (fBC), produces a positive radiative forcing of about +0.25Wm-2 over the 20th century, compared with +2.52Wm-2 for well mixed greenhouse gases. A simulated warming of global mean near-surface temperatures over the twentieth century from fBC of 0.14±0.1K compares with 1.06±0.07K from greenhouse gases, -0.58±0.10K from anthropogenic aerosols, ozone and land use changes and 0.09±0.09K from natural influences. Using a detection and attribution methodology, the observed warming since 1900 has detectable influences from anthropogenic and natural factors. Fossil fuel and bio-fuel black carbon is found to have a detectable contribution to the warming over the last 50 yr of the 20th century, although the results are sensitive to the period being examined as fBC is not detected for the later fifty year period ending in 2006. The attributed warming of fBC was found to be consistent with the warming from fBC unscaled by the detection analysis. This study suggests that there is a possible significant influence from fBC on global temperatures, but its influence is small compared to that from greenhouse gas emissions. © 2011 Author(s).",
+        "citedby-count": "28",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "G. S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "N.",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "P. A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "12091",
+        "fund-no": "undefined",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/77952878363"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/77952878363?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=77952878363&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=77952878363&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/77952878363",
+        "dc:identifier": "SCOPUS_ID:77952878363",
+        "eid": "2-s2.0-77952878363",
+        "dc:title": "Probabilistic estimates of recent changes in temperature: A multi-scale attribution analysis",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Climate Dynamics",
+        "prism:issn": "09307575",
+        "prism:eIssn": "14320894",
+        "prism:volume": "34",
+        "prism:issueIdentifier": "7",
+        "prism:pageRange": "1139-1156",
+        "prism:coverDate": "2010-06-01",
+        "prism:coverDisplayDate": "June 2010",
+        "prism:doi": "10.1007/s00382-009-0615-7",
+        "dc:description": "The role of anthropogenic forcings in temperature changes during recent decades is investigated over a range of spatial scales. Changes in the annual mean surface temperature and also in the warmest night of the year, which has implications for human health, are considered. Distributions of regional trends with and without the effect of human activity are produced, using constraints from a global optimal detection analysis. Anthropogenic forcings are estimated to have more than doubled the likelihood of mean warming in all regions considered except central North America, where results are more model dependent. The likelihood of warming of the warmest night has also increased, but the estimated change is more uncertain. Inferences on sub-continental scales are indicative rather than definitive because of the absence of locally important forcings and processes in model simulations, as well as model biases. As model inconsistencies may impact regional analyses, a multi-model approach is essential. © 2009 Crown Copyright.",
+        "citedby-count": "24",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60012197",
+            "afid": "60012197",
+            "affilname": "University of Reading",
+            "affiliation-city": "Reading",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000673",
+            "afid": "60000673",
+            "affilname": "Environment Canada",
+            "affiliation-city": "Gatineau",
+            "affiliation-country": "Canada"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030939",
+            "afid": "60030939",
+            "affilname": "National Institute for Environmental Studies of Japan",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60012197"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004861251",
+            "authid": "7004861251",
+            "authname": "Zwiers F.",
+            "surname": "Zwiers",
+            "given-name": "Francis W.",
+            "initials": "F.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000673"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10240710000",
+            "authid": "10240710000",
+            "authname": "Nozawa T.",
+            "surname": "Nozawa",
+            "given-name": "Toru",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Attribution | Multi-model | Multi-scale | Regional | Temperature extremes",
+        "source-id": "12172",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/77957120808"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/77957120808?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=77957120808&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=77957120808&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/77957120808",
+        "dc:identifier": "SCOPUS_ID:77957120808",
+        "eid": "2-s2.0-77957120808",
+        "dc:title": "Causes for the recent changes in cold- and heat-related mortality in England and Wales",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Climatic Change",
+        "prism:issn": "01650009",
+        "prism:volume": "102",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "539-553",
+        "prism:coverDate": "2010-01-15",
+        "prism:coverDisplayDate": "2010",
+        "prism:doi": "10.1007/s10584-009-9774-0",
+        "dc:description": "Cold related mortality among people aged over 50 in England and Wales has decreased at a rate of 85 deaths per million population per year over the period 1976-2005. This trend is two orders of magnitude higher than the increase in heat-related mortality observed after 1976. Long term changes in temperature-related mortality may be linked to human activity, natural climatic forcings, or to adaptation of the population to a wider range of temperatures. Here we employ optimal detection, a formal statistical methodology, to carry out an end to end attribution analysis. We find that adaptation is a major influence on changing mortality rates. We also find that adaptation has prevented a significant increase in heat-related mortality and considerably enhanced a significant decrease in cold-related mortality. Our analysis suggests that in the absence of adaptation, the human influence on climate would have been the main contributor to increases in heat-related mortality and decreases in cold-related mortality. © 2009 Crown Copyright.",
+        "citedby-count": "40",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60029950",
+            "afid": "60029950",
+            "affilname": "UCL Medical School",
+            "affiliation-city": "London",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7102722173",
+            "authid": "7102722173",
+            "authname": "Donaldson G.",
+            "surname": "Donaldson",
+            "given-name": "Gavin C.",
+            "initials": "G.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029950"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "12177",
+        "fund-no": "GA01101",
+        "fund-sponsor": "Department of Energy and Climate Change",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/41749098846"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/41749098846?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=41749098846&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=41749098846&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/41749098846",
+        "dc:identifier": "SCOPUS_ID:41749098846",
+        "eid": "2-s2.0-41749098846",
+        "dc:title": "Human contribution to rapidly increasing frequency of very warm Northern Hemisphere summers",
+        "dc:creator": "Jones G.",
+        "prism:publicationName": "Journal of Geophysical Research Atmospheres",
+        "prism:issn": "01480227",
+        "prism:volume": "113",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": null,
+        "prism:coverDate": "2008-01-27",
+        "prism:coverDisplayDate": "27 January 2008",
+        "prism:doi": "10.1029/2007JD008914",
+        "dc:description": "The European summer of 2003 was exceptionally warm, and there is evidence that human influence has at least doubled the risk of such a hot summer. It is possible that by the 2040s, summers over southern Europe will be as warm or warmer 50% of the time. Because of the related socioeconomic impacts, there is growing interest in investigating changes in climate extremes across the world and how they may change in the future. We examine observed and simulated summer temperatures over a set of regions covering the Northern Hemisphere. Simulated changes are consistent with observed changes over the vast majority of regions when the climate simulation includes changes in anthropogenic and natural influences. We detect the dominant influence of anthropogenic factors on observed warming in almost every region, which has led to a rapidly increasing risk of hot summers. We show that hot summers which were infrequent 20-40 years ago are now much more common and that our projections indicate that the current sharp rise in incidence of hot summers is likely to continue.",
+        "citedby-count": "47",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55715917500",
+            "authid": "55715917500",
+            "authname": "Jones G.",
+            "surname": "Jones",
+            "given-name": "Gareth S.",
+            "initials": "G.S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "article-number": "D02109",
+        "source-id": "28428",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/36349024681"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/36349024681?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=36349024681&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=36349024681&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/36349024681",
+        "dc:identifier": "SCOPUS_ID:36349024681",
+        "eid": "2-s2.0-36349024681",
+        "dc:title": "Human contribution to the lengthening of the growing season during 1950-99",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Journal of Climate",
+        "prism:issn": "08948755",
+        "prism:volume": "20",
+        "prism:issueIdentifier": "21",
+        "prism:pageRange": "5441-5454",
+        "prism:coverDate": "2007-11-01",
+        "prism:coverDisplayDate": "1 November 2007",
+        "prism:doi": "10.1175/2007JCLI1568.1",
+        "dc:description": "Increasing surface temperatures are expected to result in longer growing seasons. An optimal detection analysis is carried out to assess the significance of increases in the growing season length during 1950-99, and to measure the anthropogenic component of the change. The signal is found to be detectable, both on global and continental scales, and human influence needs to be accounted for if it is to be fully explained. The change in the growing season length is found to be asymmetric and largely due to the earlier onset of spring, rather than the later ending of autumn. The growing season length, based on exceedence of local temperature thresholds, has a rate of increase of about 1.5 days decade-1 over the observation area. Local variations also allow for negative trends in parts of North America. The analysis suggests that the signal can be attributed to the anthropogenic forcings that have acted on the climate system and no other forcings are necessary to describe the change. Model projections predict that under future climate change the later ending of autumn will also contribute significantly to the lengthening of the growing season, which will increase in the twenty-first century by more than a month. Such major changes in seasonality will affect physical and biological systems in several ways, leading to important environmental and socioeconomic consequences and adaptation challenges. © 2007 American Meteorological Society.",
+        "citedby-count": "50",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030931",
+            "afid": "60030931",
+            "affilname": "University of Oklahoma",
+            "affiliation-city": "Norman",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55365584100",
+            "authid": "55365584100",
+            "authname": "Brown S.",
+            "surname": "Brown",
+            "given-name": "Simon",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55951225700",
+            "authid": "55951225700",
+            "authname": "Karoly D.",
+            "surname": "Karoly",
+            "given-name": "David J.",
+            "initials": "D.J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030931"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007410400",
+            "authid": "23007410400",
+            "authname": "Caesar J.",
+            "surname": "Caesar",
+            "given-name": "John",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "13550",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/33750957935"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/33750957935?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=33750957935&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=33750957935&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/33750957935",
+        "dc:identifier": "SCOPUS_ID:33750957935",
+        "eid": "2-s2.0-33750957935",
+        "dc:title": "Modelling the recent evolution of global drought and projections for the twenty-first century with the Hadley Centre climate model",
+        "dc:creator": "Burke E.",
+        "prism:publicationName": "Journal of Hydrometeorology",
+        "prism:issn": "1525755X",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": "1113-1125",
+        "prism:coverDate": "2006-10-01",
+        "prism:coverDisplayDate": "October 2006",
+        "prism:doi": "10.1175/JHM544.1",
+        "dc:description": "Meteorological drought in the Hadley Centre global climate model is assessed using the Palmer Drought Severity Index (PDSI), a commonly used drought index. At interannual time scales, for the majority of the land surface, the model captures the observed relationship between the El Niño-Southern Oscillation and regions of relative wetness and dryness represented by high and low values of the PDSI respectively. At decadal time scales, on a global basis, the model reproduces the observed drying trend (decreasing PDSI) since 1952. An optimal detection analysis shows that there is a significant influence of anthropogenic emissions of greenhouse gasses and sulphate aerosols in the production of this drying trend. On a regional basis, the specific regions of wetting and drying are not always accurately simulated. In this paper, present-day drought events are defined as continuous time periods where the PDSI is less than the 20th percentile of the PDSI distribution between 1952 and 1998 (i.e., on average 20% of the land surface is in drought at any one time). Overall, the model predicts slightly less frequent but longer events than are observed. Future projections of drought in the twenty-first century made using the Special Report on Emissions Scenarios (SRES) A2 emission scenario show regions of strong wetting and drying with a net overall global drying trend. For example, the proportion of the land surface in extreme drought is predicted to increase from 1% for the present day to 30% by the end of the twenty-first century.",
+        "citedby-count": "331",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/57202411660",
+            "authid": "57202411660",
+            "authname": "Burke E.",
+            "surname": "Burke",
+            "given-name": "Eleanor J.",
+            "initials": "E.J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55365584100",
+            "authid": "55365584100",
+            "authname": "Brown S.",
+            "surname": "Brown",
+            "given-name": "Simon J.",
+            "initials": "S.J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "source-id": "29539",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/38849161378"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/38849161378?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=38849161378&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=38849161378&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/38849161378",
+        "dc:identifier": "SCOPUS_ID:38849161378",
+        "eid": "2-s2.0-38849161378",
+        "dc:title": "Detection of greenhouse gas and aerosol influences on changes in temperature extremes",
+        "dc:creator": "Shiogama H.",
+        "prism:publicationName": "Scientific Online Letters on the Atmosphere",
+        "prism:eIssn": "13496476",
+        "prism:volume": "2",
+        "prism:pageRange": "152-155",
+        "prism:coverDate": "2006-01-01",
+        "prism:coverDisplayDate": "2006",
+        "prism:doi": "10.2151/sola.2006-039",
+        "dc:description": "© 2006, the Meteorological Society of Japan. Detection/attribution analyses of temperature extremes were carried out by comparing a new gridded observational dataset of daily maximum/minimum temperatures (HadGHCND) and the simulation of MIROC3.2. It was shown that significant anthropogenic warming is detectable in the annual warmest night, and the coldest day and night from 1950 to 1999, while human influence was not detected in the warmest day. These findings are in agreement with a previous study that examined the simulation of HadCM3. Human influence is also identified in the decrease in the number of frost days, but not with the increase in the number of summer days. Furthermore, it was suggested that half of the warming trend due to rising greenhouse gas concentrations is canceled out by other factors, predominantly aerosol cooling. It is expected that a rapid decline of aerosol emissions coupled with rising greenhouse gas concentrations would induce larger changes in temperature extremes in the future.",
+        "citedby-count": "13",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030939",
+            "afid": "60030939",
+            "affilname": "National Institute for Environmental Studies of Japan",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60025272",
+            "afid": "60025272",
+            "affilname": "University of Tokyo",
+            "affiliation-city": "Tokyo",
+            "affiliation-country": "Japan"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60080652",
+            "afid": "60080652",
+            "affilname": "Frontier Research Center for Global Change",
+            "affiliation-city": "Yokohama",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "8"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241250100",
+            "authid": "10241250100",
+            "authname": "Shiogama H.",
+            "surname": "Shiogama",
+            "given-name": "Hideo",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007410400",
+            "authid": "23007410400",
+            "authname": "Caesar J.",
+            "surname": "Caesar",
+            "given-name": "John",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10241462700",
+            "authid": "10241462700",
+            "authname": "Yokohata T.",
+            "surname": "Yokohata",
+            "given-name": "Tokuta",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/10240710000",
+            "authid": "10240710000",
+            "authname": "Nozawa T.",
+            "surname": "Nozawa",
+            "given-name": "Toru",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8979277400",
+            "authid": "8979277400",
+            "authname": "Emori S.",
+            "surname": "Emori",
+            "given-name": "Seita",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025272"
+              },
+              {
+                "@_fa": "true",
+                "$": "60080652"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8979277400",
+            "authid": "8979277400",
+            "authname": "Emori S.",
+            "surname": "Emori",
+            "given-name": "Seita",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025272"
+              },
+              {
+                "@_fa": "true",
+                "$": "60080652"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "https://api.elsevier.com/content/author/author_id/8979277400",
+            "authid": "8979277400",
+            "authname": "Emori S.",
+            "surname": "Emori",
+            "given-name": "Seita",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60030939"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025272"
+              },
+              {
+                "@_fa": "true",
+                "$": "60080652"
+              }
+            ]
+          }
+        ],
+        "source-id": "5600152714",
+        "fund-acr": "MEXT",
+        "fund-no": "undefined",
+        "fund-sponsor": "Ministry of Education, Culture, Sports, Science and Technology",
+        "openaccess": "1",
+        "openaccessFlag": true
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/28944443125"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/28944443125?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=28944443125&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=28944443125&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/28944443125",
+        "dc:identifier": "SCOPUS_ID:28944443125",
+        "eid": "2-s2.0-28944443125",
+        "dc:title": "Detection of changes in temperature extremes during the second half of the 20th century",
+        "dc:creator": "Christidis N.",
+        "prism:publicationName": "Geophysical Research Letters",
+        "prism:issn": "00948276",
+        "prism:volume": "32",
+        "prism:issueIdentifier": "20",
+        "prism:pageRange": "1-4",
+        "prism:coverDate": "2005-10-28",
+        "prism:coverDisplayDate": "28 October 2005",
+        "prism:doi": "10.1029/2005GL023885",
+        "dc:description": "Since 1950, the warmest and coldest days and nights of the year have become warmer. Comparing these observations with climate model simulations in an optimal detection analysis shows a significant human influence on patterns of change in extremely warm nights. Human influence on cold nights and days is also detected, although less robustly, but there is no detection of a significant human influence on extremely warm days. In the future, extreme temperatures are expected to intensify considerably, with adverse consequences for human health. Copyright 2005 by the American Geophysical Union.",
+        "citedby-count": "107",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60018258",
+            "afid": "60018258",
+            "affilname": "Met Office",
+            "affiliation-city": "Exeter",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60008724",
+            "afid": "60008724",
+            "affilname": "Duke University",
+            "affiliation-city": "Durham",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007591800",
+            "authid": "23007591800",
+            "authname": "Christidis N.",
+            "surname": "Christidis",
+            "given-name": "Nikolaos",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "https://api.elsevier.com/content/author/author_id/22836973600",
+            "authid": "22836973600",
+            "authname": "Stott P.",
+            "surname": "Stott",
+            "given-name": "Peter A.",
+            "initials": "P.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "https://api.elsevier.com/content/author/author_id/55365584100",
+            "authid": "55365584100",
+            "authname": "Brown S.",
+            "surname": "Brown",
+            "given-name": "Simon",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "https://api.elsevier.com/content/author/author_id/7004299251",
+            "authid": "7004299251",
+            "authname": "Hegerl G.",
+            "surname": "Hegerl",
+            "given-name": "Gabriele C.",
+            "initials": "G.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60008724"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "https://api.elsevier.com/content/author/author_id/23007410400",
+            "authid": "23007410400",
+            "authname": "Caesar J.",
+            "surname": "Caesar",
+            "given-name": "John",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60018258"
+              }
+            ]
+          }
+        ],
+        "article-number": "L20716",
+        "source-id": "27962",
+        "fund-no": "undefined",
+        "openaccess": "0",
+        "openaccessFlag": false
+      }
+    ]
+  }
+}
