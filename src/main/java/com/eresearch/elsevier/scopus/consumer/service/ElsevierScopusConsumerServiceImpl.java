@@ -9,13 +9,11 @@ import com.eresearch.elsevier.scopus.consumer.dto.ScopusConsumerResultsDto;
 import com.eresearch.elsevier.scopus.consumer.dto.ScopusFinderQueueResultDto;
 import com.eresearch.elsevier.scopus.consumer.exception.BusinessProcessingException;
 import com.eresearch.elsevier.scopus.consumer.metrics.entries.ServiceLayerMetricEntry;
-import com.eresearch.elsevier.scopus.consumer.repository.ScopusConsumerRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.log4j.Log4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.stereotype.Service;
 
@@ -27,17 +25,11 @@ import java.util.List;
 @Log4j
 public class ElsevierScopusConsumerServiceImpl implements ElsevierScopusConsumerService {
 
-    @Value("${enable.persistence.results}")
-    private String enablePersistenceForResults;
-
     @Autowired
     private ScopusSearchConnector scopusSearchConnector;
 
     @Autowired
     private Clock clock;
-
-    @Autowired
-    private ScopusConsumerRepository scopusConsumerRepository;
 
     @Autowired
     private ServiceLayerMetricEntry serviceLayerMetricEntry;
@@ -69,10 +61,6 @@ public class ElsevierScopusConsumerServiceImpl implements ElsevierScopusConsumer
             result.setResults(scopusConsumerResultsDtos);
             result.setOperationResult(Boolean.TRUE);
             result.setProcessFinishedDate(Instant.now(clock));
-
-            if (Boolean.valueOf(enablePersistenceForResults)) {
-                scopusConsumerRepository.save(elsevierScopusConsumerDto, result);
-            }
 
             return result;
 
