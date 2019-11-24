@@ -1,6 +1,6 @@
 {
   "operation-result": true,
-  "process-finished-date": "2019-04-16T23:44:52.469Z",
+  "process-finished-date": "2019-11-24T22:26:31.894Z",
   "requested-elsevier-scopus-consumer-dto": {
     "au-id": "23007591800"
   },
@@ -622,7 +622,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "25"
+              "$": "25",
+              "@total": null
             },
             "dc:description": "Â© 2018, Springer-Verlag GmbH Germany, part of Springer Nature. A detailed analysis is carried out to assess the HadGEM3-A global atmospheric model skill in simulating extreme temperatures, precipitation and storm surges in Europe in the view of their attribution to human influence. The analysis is performed based on an ensemble of 15 atmospheric simulations forced with observed sea surface temperature of the 54Â year period 1960â2013. These simulations, together with dual simulations without human influence in the forcing, are intended to be used in weather and climate event attribution. The analysis investigates the main processes leading to extreme events, including atmospheric circulation patterns, their links with temperature extremes, landâatmosphere and troposphere-stratosphere interactions. It also compares observed and simulated variability, trends and generalized extreme value theory parameters for temperature and precipitation. One of the most striking findings is the ability of the model to capture North-Atlantic atmospheric weather regimes as obtained from a cluster analysis of sea level pressure fields. The model also reproduces the main observed weather patterns responsible for temperature and precipitation extreme events. However, biases are found in many physical processes. Slightly excessive drying may be the cause of an overestimated summer interannual variability and too intense heat waves, especially in central/northern Europe. However, this does not seem to hinder proper simulation of summer temperature trends. Cold extremes appear well simulated, as well as the underlying blocking frequency and stratosphere-troposphere interactions. Extreme precipitation amounts are overestimated and too variable. The atmospheric conditions leading to storm surges were also examined in the Baltics region. There, simulated weather conditions appear not to be leading to strong enough storm surges, but winds were found in very good agreement with reanalyses. The performance in reproducing atmospheric weather patterns indicates that biases mainly originate from local and regional physical processes. This makes local bias adjustment meaningful for climate change attribution.",
             "authkeywords": null,
@@ -753,7 +754,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": null,
             "authkeywords": null,
@@ -995,7 +997,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "7"
+              "$": "7",
+              "@total": null
             },
             "dc:description": null,
             "authkeywords": null,
@@ -1126,7 +1129,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Â© 2018 American Meteorological Society. Attribution analyses of extreme events estimate changes in the likelihood of their occurrence due to human climatic influences by comparing simulations with and without anthropogenic forcings. Classes of events are commonly considered that only share one or more key characteristics with the observed event. Here we test the sensitivity of attribution assessments to such event definition differences, using the warm and wet winter of 2015/16 in the United Kingdom as a case study. A large number of simulations from coupled models and an atmospheric model are employed. In the most basic case, warm and wet events are defined relative to climatological temperature and rainfall thresholds. Several other classes of events are investigated that, in addition to threshold exceedance, also account for the effect of observed sea surface temperature (SST) anomalies, the circulation flow, or modes of variability present during the reference event. Human influence is estimated to increase the likelihood of warm winters in the United Kingdom by a factor of 3 or more for events occurring under any atmospheric and oceanic conditions, but also for events with a similar circulation or oceanic state to 2015/16. The likelihood of wet winters is found to increase by at least a factor of 1.5 in the general case, but results from the atmospheric model, conditioned on observed SST anomalies, are more uncertain, indicating that decreases in the likelihood are also possible. The robustness of attribution assessments based on atmospheric models is highly dependent on the representation of SSTs without the effect of human influence.",
             "authkeywords": "Anthropogenic effects | Climate change | Climate models | Greenhouse gases | Risk assessment | Statistical techniques",
@@ -1358,7 +1362,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "7"
+              "$": "7",
+              "@total": null
             },
             "dc:description": "Â© 2018 The Authors We examine the effect of the 20th and recent 21st century anthropogenic climate change on high temperature extremes as simulated by four global atmospheric general circulation models submitted to the Climate of the 20th Century Plus Detection and Attribution project. This coordinated experiment is based upon two large ensembles simulations for each participating model. The âworld that wasâ simulations are externally forced as realistically as possible. The âworld that might have beenâ is identical except that the influence of human forcing is removed but natural forcing agents and variations in ocean and sea ice are retained. We apply a stationary generalized extreme value analysis to the annual maxima of the three day average of the daily maximum surface air temperature, finding that long period return values have been increased by human activities between 1 and 3 Â°C over most land areas. Corresponding changes in the probability of achieving long period non-industrial return values in the industrialized world are also presented. We find that most regions experience increases in the frequency and intensity of extremely hot three day periods, but anthropogenic sulfate aerosol forcing changes locally can decrease these measures of heat waves in some models.",
             "authkeywords": null,
@@ -1631,7 +1636,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "10"
+              "$": "10",
+              "@total": null
             },
             "dc:description": "Â© 2018 We present a substantial upgrade of the Met Office system for the probabilistic attribution of extreme weather and climate events with higher horizontal and vertical resolution (60 km mid-latitudes and 85 vertical levels), the latest Hadley Centre atmospheric and land model (ENDGame dynamics with GA6.0 science and JULES at GL6.0) as well as an updated forcings set. A new set of experiments designed for the evaluation and implementation of an operational attribution service are described which consist of pairs of multi-decadal stochastic physics ensembles continued on a season by season basis by large ensembles that are able to sample extreme atmospheric states possible in the recent past. Diagnostics from these experiments form the HadGEM3-A contribution to the international Climate of the 20th Century Plus (C20C+) project and were analysed under the European Climate and Weather Events: Interpretation and Attribution (EUCLEIA) event attribution project as well as contributing to the Climate Science for Service Partnership (CSSP)-China programme. After discussing the framing issues surrounding questions that can be asked with our system we construct a novel approach to the evaluation of atmosphere-only ensembles intended for event attribution, in the process highlighting and clarifying the distinction between hindcast skill and model performance. A framework based around assessing model representation of predictable components and ensuring exchangeability of model and real world statistics leads to a form of detection and attribution to boundary condition forcing as a means of quantifying one degree of freedom of potential model error and allowing for the bias correction of event probabilities and resulting probability ratios. This method is then applied systematically across the globe to assess contributions from anthropogenic influence and specific boundary conditions to the changing probability of observed and record seasonal mean temperatures of four recent 3-month seasons from March 2016âFebruary 2017.",
             "authkeywords": null,
@@ -2106,7 +2112,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "19"
+              "$": "19",
+              "@total": null
             },
             "dc:description": "Â© 2018 American Meteorological Society. An attribution study has been performed to investigate the degree to which the unusually cold European winter of 2009/10 was modified by anthropogenic climate change. Two different methods have been included for the attribution: one based on large HadGEM3-A ensembles and one based on a statistical surrogate method. Both methods are evaluated by comparing simulated winter temperature means, trends, standard deviations, skewness, return periods, and 5% quantiles with observations. While the surrogate method performs well, HadGEM3-A in general underestimates the trend in winter by a factor of 2/3. It has a mean cold bias dominated by the mountainous regions and also underestimates the cold 5% quantile in many regions of Europe. Both methods show that the probability of experiencing a winter as cold as 2009/10 has been reduced by approximately a factor of 2 because of anthropogenic changes. The method based on HadGEM3-A ensembles gives somewhat larger changes than the surrogate method because of differences in the definition of the unperturbed climate. The results are based on two diagnostics: the coldest day in winter and the largest continuous area with temperatures colder than twice the local standard deviation. The results are not sensitive to the choice of bias correction except in the mountainous regions. Previous results regarding the behavior of the measures of the changed probability have been extended. The counterintuitive behavior for heavy-tailed distributions is found to hold for a range of measures and for events that become more rare in a changed climate.",
             "authkeywords": "Climate change | Climate models | Ensembles | Extreme events | Trends | Winter/cool season",
@@ -2375,7 +2382,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "9"
+              "$": "9",
+              "@total": null
             },
             "dc:description": "Â© 2017, Springer-Verlag GmbH Germany. In the context of ongoing climate change, extreme weather events are drawing increasing attention from the public and news media. A question often asked is how the likelihood of extremes might have changed by anthropogenic greenhouse-gas emissions. Answers to the question are strongly influenced by the model used, duration, spatial extent, and geographic location of the eventâsome of these factors often overlooked. Using output from four global climate models, we provide attribution statements characterised by a change in probability of occurrence due to anthropogenic greenhouse-gas emissions, for rainfall and temperature extremes occurring at seven discretised spatial scales and three temporal scales. An understanding of the sensitivity of attribution statements to a range of spatial and temporal scales of extremes allows for the scaling of attribution statements, rendering them relevant to other extremes having similar but non-identical characteristics. This is a procedure simple enough to approximate timely estimates of the anthropogenic contribution to the event probability. Furthermore, since real extremes do not have well-defined physical borders, scaling can help quantify uncertainty around attribution results due to uncertainty around the event definition. Results suggest that the sensitivity of attribution statements to spatial scale is similar across models and that the sensitivity of attribution statements to the model used is often greater than the sensitivity to a doubling or halving of the spatial scale of the event. The use of a range of spatial scales allows us to identify a nonlinear relationship between the spatial scale of the event studied and the attribution statement.",
             "authkeywords": "AGCMs | Attribution | C20C+ | Extremes",
@@ -2532,7 +2540,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "6"
+              "$": "6",
+              "@total": null
             },
             "dc:description": "Â© The Ocean Agency / XL Catlin Seaview Survey / Chrisophe Bailhache. This sixth edition of explaining extreme events of the previous year (2016) from a climate perspective is the first of these reports to find that some extreme events were not possible in a preindustrial climate. The events were the 2016 record global heat, the heat across Asia, as well as a marine heat wave off the coast of Alaska. While these results are novel, they were not unexpected. Climate attribution scientists have been predicting that eventually the influence of human-caused climate change would become sufficiently strong as to push events beyond the bounds of natural variability alone. It was also predicted that we would first observe this phenomenon for heat events where the climate change influence is most pronounced. Additional retrospective analysis will reveal if, in fact, these are the first events of their kind or were simply some of the first to be discovered. Last year, the editors emphasized the need for additional papers in the area of âimpacts attributionâ that investigate whether climate changeâs influence on the extreme event can subsequently be directly tied to a change in risk of the socio-economic or environmental impacts. Several papers in this yearâs report address this challenge, including Great Barrier Reef bleaching, living marine resources in the Pacific, and ecosystem productivity on the Iberian Peninsula. This is an increase over the number of impact attribution papers than in the past, and are hopefully a sign that research in this area will continue to expand in the future. Other extreme weather event types in this yearâs edition include ocean heat waves, forest fires, snow storms, and frost, as well as heavy precipitation, drought, and extreme heat and cold events over land. There were a number of marine heat waves examined in this yearâs report, and all but one found a role for climate change in increasing the severity of the events. While human-caused climate change caused Chinaâs cold winter to be less likely, it did not influence U.S. storm Jonas which hit the mid-Atlantic in winter 2016. As in past years, the papers submitted to this report are selected prior to knowing the final results of whether human-caused climate change influenced the event. The editors have and will continue to support the publication of papers that find no role for human-caused climate change because of their scientific value in both assessing attribution methodologies and in enhancing our understanding of how climate change is, and is not, impacting extremes. In this report, twenty-one of the twenty-seven papers in this edition identified climate change as a significant driver of an event, while six did not. Of the 131 papers now examined in this report over the last six years, approximately 65% have identified a role for climate change, while about 35% have not found an appreciable effect. Looking ahead, we hope to continue to see improvements in how we assess the influence of human-induced climate change on extremes and the continued inclusion of stakeholder needs to inform the growth of the field and how the results can be applied in decision making. While it represents a considerable challenge to provide robust results that are clearly communicated for stakeholders to use as part of their decision-making processes, these annual reports are increasingly showing their potential to help meet such growing needs.",
             "authkeywords": null,
@@ -2652,7 +2661,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "Â© 2016 Detection and attribution studies have demonstrated that anthropogenic forcings have been driving significant changes in temperature extremes since the middle of the 20th century. Moreover, new methodologies have been developed for the attribution of extreme events that assess how human influence may have changed their characteristics. Here we combine formal statistical analyses based on optimal fingerprinting to attribute observed long term changes in temperature extremes with an ensemble-based approach for event attribution. Our analyses are applied to 16 indices constructed with daily temperature data that focus on different characteristics of extremes and together build up a more complete representation of historical changes in warm and cold extremes than previous studies. For each index we compute an annual value for all years of the post-1960 period using data from observations and experiments with a coupled Earth System model for the analysis of multi-decadal changes and a high-resolution atmospheric model for event attribution. The models indicate that anthropogenic forcings have influenced almost all indices in recent decades and led to more prominent changes in the frequency of extremes. The optimal fingerprinting analyses show that for most indices the anthropogenic signal is detectable in changes during 1961â2010 both in Europe and on a quasi-global scale. The weaker natural effect, resulting mainly from volcanic eruptions, is in most cases not detectable, with the exception of large scale changes in indices linked to the frequency of cold night-time extremes. Our event analyses estimate how anthropogenic forcings alter the chances of getting new record index values in Europe and find that such extremes would be markedly rare if human influence were not accounted for, whereas in the current climate their return times range from a few years to a few decades.",
             "authkeywords": "Anthropogenic forcings | Detection and attribution | Temperature extremes",
@@ -2800,7 +2810,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "4"
+              "$": "4",
+              "@total": null
             },
             "dc:description": "Â© 2016 American Meteorological Society. Extreme winter sunshine in the United Kingdom, as observed in the record high 2014/15 season, has become more than 1.5 times more likely to occur under the influence of anthropogenic forcings.",
             "authkeywords": null,
@@ -3060,7 +3071,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "8"
+              "$": "8",
+              "@total": null
             },
             "dc:description": "Â© 2016 IOP Publishing Ltd. We present a new method that allows a separation of the attribution of human influence in extreme events into changes in atmospheric flows and changes in other processes. Assuming two data sets of model simulations or observations representing a natural, or 'counter-factual' climate, and the actual, or 'factual' climate, we show how flow analogs used across data sets can provide quantitative estimates of each contribution to the changes in probabilities of extreme events. We apply this method to the extreme January precipitation amounts in Southern UK such as were observed in the winter of 2013/2014. Using large ensembles of an atmospheric model forced by factual and counterfactual sea surface temperatures, we demonstrate that about a third of the increase in January precipitation amounts can be attributed to changes in weather circulation patterns and two thirds of the increase to thermodynamic changes. This method can be generalized to many classes of events and regions and provides, in the above case study, similar results to those obtained in Schaller et al (2016 Nat. Clim. Change 6 627-34) who used a simple circulation index, describing only a local feature of the circulation, as in other methods using circulation indices (van Ulden and van Oldenborgh 2006 Atmos. Chem. Phys. 6 863-81).",
             "authkeywords": "climate change | event attribution | extreme events | extreme precipitation",
@@ -3326,7 +3338,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "9"
+              "$": "9",
+              "@total": null
             },
             "dc:description": "Â© 2016 A growing field of research aims to characterise the contribution of anthropogenic emissions to the likelihood of extreme weather and climate events. These analyses can be sensitive to the shapes of the tails of simulated distributions. If tails are found to be unrealistically short or long, the anthropogenic signal emerges more or less clearly, respectively, from the noise of possible weather. Here we compare the chance of daily land-surface precipitation and near-surface temperature extremes generated by three Atmospheric Global Climate Models typically used for event attribution, with distributions from six reanalysis products. The likelihoods of extremes are compared for area-averages over grid cell and regional sized spatial domains. Results suggest a bias favouring overly strong attribution estimates for hot and cold events over many regions of Africa and Australia, and a bias favouring overly weak attribution estimates over regions of North America and Asia. For rainfall, results are more sensitive to geographic location. Although the three models show similar results over many regions, they do disagree over others. Equally, results highlight the discrepancy amongst reanalyses products. This emphasises the importance of using multiple reanalysis and/or observation products, as well as multiple models in event attribution studies.",
             "authkeywords": "CAM5.1 | Evaluation | Event attribution | Extremes | HadGEM3-A-N216 | MIROC5",
@@ -3645,7 +3658,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "11"
+              "$": "11",
+              "@total": null
             },
             "dc:description": "Â© 2016 IOP Publishing Ltd. Within the last decade, extreme weather event attribution has emerged as a new field of science and garnered increasing attention from the wider scientific community and the public. Numerous methods have been put forward to determine the contribution of anthropogenic climate change to individual extreme weather events. So far nearly all such analyses were done months after an event has happened. Here we present a new method which can assess the fraction of attributable risk of a severe weather event due to an external driver in real-time. The method builds on a large ensemble of atmosphere-only general circulation model simulations forced by seasonal forecast sea surface temperatures (SSTs). Taking the England 2013/14 winter floods as an example, we demonstrate that the change in risk for heavy rainfall during the England floods due to anthropogenic climate change, is of similar magnitude using either observed or seasonal forecast SSTs. Testing the dynamic response of the model to the anomalous ocean state for January 2014, we find that observed SSTs are required to establish a discernible link between a particular SST pattern and an atmospheric response such as a shift in the jetstream in the model. For extreme events occurring under strongly anomalous SST patterns associated with known low-frequency climate modes, however, forecast SSTs can provide sufficient guidance to determine the dynamic contribution to the event.",
             "authkeywords": "climate change | ensemble modelling | extreme event attribution",
@@ -3984,7 +3998,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "11"
+              "$": "11",
+              "@total": null
             },
             "dc:description": "Â© 2016 Wiley Periodicals, Inc. Extreme weather and climate-related events occur in a particular place, by definition, infrequently. It is therefore challenging to detect systematic changes in their occurrence given the relative shortness of observational records. However, there is a clear interest from outside the climate science community in the extent to which recent damaging extreme events can be linked to human-induced climate change or natural climate variability. Event attribution studies seek to determine to what extent anthropogenic climate change has altered the probability or magnitude of particular events. They have shown clear evidence for human influence having increased the probability of many extremely warm seasonal temperatures and reduced the probability of extremely cold seasonal temperatures in many parts of the world. The evidence for human influence on the probability of extreme precipitation events, droughts, and storms is more mixed. Although the science of event attribution has developed rapidly in recent years, geographical coverage of events remains patchy and based on the interests and capabilities of individual research groups. The development of operational event attribution would allow a more timely and methodical production of attribution assessments than currently obtained on an ad hoc basis. For event attribution assessments to be most useful, remaining scientific uncertainties need to be robustly assessed and the results clearly communicated. This requires the continuing development of methodologies to assess the reliability of event attribution results and further work to understand the potential utility of event attribution for stakeholder groups and decision makers.",
             "authkeywords": null,
@@ -4098,7 +4113,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "Â© 2015. American Geophysical Union. All Rights Reserved. Apart from global scale surface warming, anthropogenic forcings also lead to warming and thermal expansion of the lower atmosphere. Here we investigate these effects using the geopotential height at 500 hPa, an indicator of the combined thermodynamic and dynamic climatic response to external forcings. We employ optimal fingerprinting, which uses information from reanalysis data sets and experiments with seven state-of-the-art climate models, to assess the role of anthropogenic and natural influences on changes in the geopotential height during the satellite era. A significant global increase in the annual and seasonal mean geopotential height due to human influence is detected, a result confirmed with four different reanalysis data sets. A more moderate increase in the annual mean associated with natural forcings is also detected. Our findings, consistent with previous detection and attribution studies of changes in temperature and sea level pressure, indicate the prominent role of human influence on some recent climatic changes.",
             "authkeywords": "anthropogenic forcings | detection and attribution",
@@ -4229,7 +4245,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Socio-economic stress from the unequivocal warming of the global climate system could be mostly felt by societies through weather and climate extremes. The vulnerability of European citizens was made evident during the summer heatwave of 2003 (refs,) when the heat-related death toll ran into tens of thousands. Human influence at least doubled the chances of the event according to the first formal event attribution study, which also made the ominous forecast that severe heatwaves could become commonplace by the 2040s. Here we investigate how the likelihood of having another extremely hot summer in one of the worst affected parts of Europe has changed ten years after the original study was published, given an observed summer temperature increase of 0.81 K since then. Our analysis benefits from the availability of new observations and data from several new models. Using a previously employed temperature threshold to define extremely hot summers, we find that events that would occur twice a century in the early 2000s are now expected to occur twice a decade. For the more extreme threshold observed in 2003, the return time reduces from thousands of years in the late twentieth century to about a hundred years in little over a decade.",
             "authkeywords": null,
@@ -4343,7 +4360,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "Â© 2015 American Meteorological Society. Extreme winter rainfall in the United Kingdom becomes eight times more likely when the atmospheric circulation resembles winter 2013/14, whereas anthropogenic influence is only discernible in extremes with a shorter duration.",
             "authkeywords": null,
@@ -4483,7 +4501,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Â© 2014, Crown Copyright. Regional warming due to anthropogenic influence on the climate is expected to increase the frequency of very warm years and seasons. The growing research area of extreme event attribution has provided pertinent scientific evidence for a number of such warm events for which the forced climate response rises above internal climatic variability. Although the demand for attribution assessments is higher shortly after an event occurs, most scientific studies become available several months later. A formal attribution methodology is employed here to pre-compute the changing odds of very warm years and seasons in regions across the world. Events are defined based on the exceedence of temperature thresholds and their changing odds are measured over a range of pre-specified thresholds, which means assessments can be made as soon as a new event happens. Optimal fingerprinting provides observationally constrained estimates of the global temperature response to external forcings from which regional information is extracted. This information is combined with estimates of internal variability to construct temperature distributions with and without the effect of anthropogenic influence. The likelihood of an event is computed for each distribution and the change in the odds estimated. Analyses are conducted with seven climate models to explore the model dependency of the results. Apart from colder regions and seasons, characterised by greater internal climate variability, the odds of warm events are found to have significantly increased and temperatures above the threshold of 1-in-10Â year events during 1961â1990 have become at least twice as likely to occur.",
             "authkeywords": "Anthropogenic forcings | Detection and attribution | Regional temperature extremes",
@@ -5860,7 +5879,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "109"
+              "$": "109",
+              "@total": null
             },
             "dc:description": "Attribution of extreme events is a challenging science and one that is currently undergoing considerable evolution. In this paper are 19 analyses by 18 different research groups, often using quite different methodologies, of 12 extreme events that occurred in 2012. In addition to investigating the causes of these extreme events, the multiple analyses of four of the events, the high temperatures in the United States, the record low levels of Arctic sea ice, and the heavy rain in northern Europe and eastern Australia, provide an opportunity to compare and contrast the strengths and weaknesses of the various methodologies. The differences also provide insights into the structural uncertainty of event attribution, that is, the uncertainty that arises directly from the differences in analysis methodology. In these cases, there was considerable agreement between the different assessments of the same event. However, different events had very different causes. Approximately half the analyses found some evidence that anthropogenically caused climate change was a contributing factor to the extreme event examined, though the effects of natural fluctuations of weather and climate on the evolution of many of the extreme events played key roles as well.",
             "authkeywords": null,
@@ -5974,7 +5994,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "The new Hadley Centre system for attribution of weather and climate extremes provides assessments of how human influence on the climate may lead to a change in the frequency of such events. Two different types of ensembles of simulations are generated with an atmospheric model to represent the actual climate and what the climate would have been in the absence of human influence. Estimates of the event frequency with and without the anthropogenic effect are then obtained. Three experiments conducted so far with the new system are analyzed in this study to examine how anthropogenic forcings change the odds of warm years, summers, or winters in a number of regions where the model reliably reproduces the frequency of warm events. In all cases warm events become more likely because of human influence, but estimates of the likelihood may vary considerably from year to year depending on the ocean temperature. While simulations of the actual climate use prescribed observational data of sea surface temperature and sea ice, simulations of the nonanthropogenic world also rely on coupled atmosphere-ocean models to provide boundary conditions, and this is found to introduce a major uncertainty in attribution assessments. Improved boundary conditions constructed with observational data are introduced in order to minimize this uncertainty. In more than half of the 10 cases considered here anthropogenic influence results in warm events being 3 times more likely and extreme events 5 times more likely during September 2011-August 2012, as an experiment with the new boundary conditions indicates.",
             "authkeywords": null,
@@ -6105,7 +6126,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "The global hydrological cycle is a key component of Earth's climate system. A significant amount of the energy the Earth receives from the Sun is redistributed around the world by the hydrological cycle in the form of latent heat flux. Changes in the hydrological cycle have a direct impact on droughts, floods, water resources and ecosystem services. Observed land precipitation and global river discharges do not show an increasing trend as might be expected in a warming world. Here we show that this apparent discrepancy can be resolved when the effects of tropospheric aerosols are considered. Analysing state-of-the-art climate model simulations, we find for the first time that there was a detectable weakening of the hydrological cycle between the 1950s and the 1980s, attributable to increased anthropogenic aerosols, after which the hydrological cycle recovered as a result of increasing greenhouse gas concentrations. The net result of these two counter-acting effects is an insignificant trend in the global hydrological cycle, but the individual influence of each is substantial. Reductions in air pollution have already shown an intensification in the past two decades and a further rapid increase in precipitation could be expected if the current trend continues. Â© 2013 Macmillan Publishers Limited. All rights reserved.",
             "authkeywords": null,
@@ -6236,7 +6258,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "We have carried out an investigation into the causes of changes in near-surface temperatures from 1860 to 2010. We analyze the HadCRUT4 observational data set which has the most comprehensive set of adjustments available to date for systematic biases in sea surface temperatures and the CMIP5 ensemble of coupled models which represents the most sophisticated multi-model climate modeling exercise yet carried out. Simulations that incorporate both anthropogenic and natural factors span changes in observed temperatures between 1860 and 2010, while simulations of natural factors do not warm as much as observed. As a result of sampling a much wider range of structural modeling uncertainty, we find a wider spread of historic temperature changes in CMIP5 than was simulated by the previous multi-model ensemble, CMIP3. However, calculations of attributable temperature trends based on optimal detection support previous conclusions that human-induced greenhouse gases dominate observed global warming since the mid-20th century. With a much wider exploration of model uncertainty than previously carried out, we find that individually the models give a wide range of possible counteracting cooling from the direct and indirect effects of aerosols and other non-greenhouse gas anthropogenic forcings. Analyzing the multi-model mean over 1951-2010 (focusing on the most robust result), we estimate a range of possible contributions to the observed warming of approximately 0.6 K from greenhouse gases of between 0.6 and 1.2 K, balanced by a counteracting cooling from other anthropogenic forcings of between 0 and -0.5 K. Key PointsLatest dataset of historic temperatures compared with multi model ensembleCMIP5 models have wider range of global mean warming than CMIP3 modelsMultimodel attribution analysis shows greenhouse gases dominate warming Â©2013. Crown copyright. This article is published with the permission of the Controller of HMSO and the Queen's Printer for Scotland.",
             "authkeywords": "climate change | climate models | observational datasets | temperature change",
@@ -6452,7 +6475,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "8"
+              "$": "8",
+              "@total": null
             },
             "dc:description": "A new system for attribution of weather and climate extreme events has been developed based on the atmospheric component of the latest Hadley Centre model. The model is run with either observational data of sea surface temperature and sea ice or estimates of what their values would be without the effect of anthropogenic climatic forcings. In that way, ensembles of simulations are produced that represent the climate with and without the effect of human influences. A comparison between the ensembles provides estimates of the change in the frequency of extremes due to anthropogenic forcings. To evaluate the new system, reliability diagrams are constructed, which compare the model-derived probability of extreme events with their observed frequency. The ability of the model to reproduce realistic distributions of relevant climatic variables is another key aspect of the system evaluation. Results are then presented from analyses of three recent highimpact events: the 2009/10 cold winter in the United Kingdom, the heat wave in Moscow in July 2010, and floods in Pakistan in July 2010. An evaluation assessment indicates the model can provide reliable results for the U.K. and Moscow events but not for Pakistan. It is found that without anthropogenic forcings winters in the United Kingdom colder than 2009/10 would be 7-10 times (best estimate) more common. Although anthropogenic forcings increase the likelihood of heat waves in Moscow, the 2010 event is found to be very uncommon and associated with a return time of several hundred years. No reliable attribution assessment can be made for high-precipitation events in Pakistan. Â© 2013 American Meteorological Society.",
             "authkeywords": null,
@@ -6583,7 +6607,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "This study applies the technique of event attribution to the East African rainy seasons preceding the drought of 2011. Using observed sea surface temperatures (SSTs), and sea ice conditions with a state-of-the-art atmosphere model, the precipitation totals during late 2010 (the \"short rains\") and early 2011 (the \"long rains\") were simulated hundreds of times to produce possible distributions of precipitation. Alternative distributions of precipitation were produced, consistent with a world with neither anthropogenic forcings nor human influence on SSTs and sea ice. Comparing these modeled distributions to the observed rainfall, no evidence was found for human influence on the 2010 short rains, with their failure being affected by La NiÃ±a. However, human influence was found to increase the probability of long rains as dry as, or drier than, 2011. The magnitude of increase in probability depends on the estimated pattern by which human influence changed observed SSTs. Key Points Changes in the probability of failure of East African rainy seasons are examined 2010 short rains failure shows strong influence from La NiÃ±a 2011 long rains failure was made more probable due to human influence. Â©2013 American Geophysical Union. All Rights Reserved.",
             "authkeywords": "Africa | attribution | drought | La NiÃ±a",
@@ -6737,7 +6762,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "Â© 2015 American Meteorological Society. Extreme winter rainfall in the United Kingdom becomes eight times more likely when the atmospheric circulation resembles winter 2013/14, whereas anthropogenic influence is only discernible in extremes with a shorter duration.",
             "authkeywords": null,
@@ -6877,7 +6903,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Â© 2014, Crown Copyright. Regional warming due to anthropogenic influence on the climate is expected to increase the frequency of very warm years and seasons. The growing research area of extreme event attribution has provided pertinent scientific evidence for a number of such warm events for which the forced climate response rises above internal climatic variability. Although the demand for attribution assessments is higher shortly after an event occurs, most scientific studies become available several months later. A formal attribution methodology is employed here to pre-compute the changing odds of very warm years and seasons in regions across the world. Events are defined based on the exceedence of temperature thresholds and their changing odds are measured over a range of pre-specified thresholds, which means assessments can be made as soon as a new event happens. Optimal fingerprinting provides observationally constrained estimates of the global temperature response to external forcings from which regional information is extracted. This information is combined with estimates of internal variability to construct temperature distributions with and without the effect of anthropogenic influence. The likelihood of an event is computed for each distribution and the change in the odds estimated. Analyses are conducted with seven climate models to explore the model dependency of the results. Apart from colder regions and seasons, characterised by greater internal climate variability, the odds of warm events are found to have significantly increased and temperatures above the threshold of 1-in-10Â year events during 1961â1990 have become at least twice as likely to occur.",
             "authkeywords": "Anthropogenic forcings | Detection and attribution | Regional temperature extremes",
@@ -8254,7 +8281,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "109"
+              "$": "109",
+              "@total": null
             },
             "dc:description": "Attribution of extreme events is a challenging science and one that is currently undergoing considerable evolution. In this paper are 19 analyses by 18 different research groups, often using quite different methodologies, of 12 extreme events that occurred in 2012. In addition to investigating the causes of these extreme events, the multiple analyses of four of the events, the high temperatures in the United States, the record low levels of Arctic sea ice, and the heavy rain in northern Europe and eastern Australia, provide an opportunity to compare and contrast the strengths and weaknesses of the various methodologies. The differences also provide insights into the structural uncertainty of event attribution, that is, the uncertainty that arises directly from the differences in analysis methodology. In these cases, there was considerable agreement between the different assessments of the same event. However, different events had very different causes. Approximately half the analyses found some evidence that anthropogenically caused climate change was a contributing factor to the extreme event examined, though the effects of natural fluctuations of weather and climate on the evolution of many of the extreme events played key roles as well.",
             "authkeywords": null,
@@ -8368,7 +8396,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "2"
+              "$": "2",
+              "@total": null
             },
             "dc:description": "The new Hadley Centre system for attribution of weather and climate extremes provides assessments of how human influence on the climate may lead to a change in the frequency of such events. Two different types of ensembles of simulations are generated with an atmospheric model to represent the actual climate and what the climate would have been in the absence of human influence. Estimates of the event frequency with and without the anthropogenic effect are then obtained. Three experiments conducted so far with the new system are analyzed in this study to examine how anthropogenic forcings change the odds of warm years, summers, or winters in a number of regions where the model reliably reproduces the frequency of warm events. In all cases warm events become more likely because of human influence, but estimates of the likelihood may vary considerably from year to year depending on the ocean temperature. While simulations of the actual climate use prescribed observational data of sea surface temperature and sea ice, simulations of the nonanthropogenic world also rely on coupled atmosphere-ocean models to provide boundary conditions, and this is found to introduce a major uncertainty in attribution assessments. Improved boundary conditions constructed with observational data are introduced in order to minimize this uncertainty. In more than half of the 10 cases considered here anthropogenic influence results in warm events being 3 times more likely and extreme events 5 times more likely during September 2011-August 2012, as an experiment with the new boundary conditions indicates.",
             "authkeywords": null,
@@ -8499,7 +8528,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "The global hydrological cycle is a key component of Earth's climate system. A significant amount of the energy the Earth receives from the Sun is redistributed around the world by the hydrological cycle in the form of latent heat flux. Changes in the hydrological cycle have a direct impact on droughts, floods, water resources and ecosystem services. Observed land precipitation and global river discharges do not show an increasing trend as might be expected in a warming world. Here we show that this apparent discrepancy can be resolved when the effects of tropospheric aerosols are considered. Analysing state-of-the-art climate model simulations, we find for the first time that there was a detectable weakening of the hydrological cycle between the 1950s and the 1980s, attributable to increased anthropogenic aerosols, after which the hydrological cycle recovered as a result of increasing greenhouse gas concentrations. The net result of these two counter-acting effects is an insignificant trend in the global hydrological cycle, but the individual influence of each is substantial. Reductions in air pollution have already shown an intensification in the past two decades and a further rapid increase in precipitation could be expected if the current trend continues. Â© 2013 Macmillan Publishers Limited. All rights reserved.",
             "authkeywords": null,
@@ -8630,7 +8660,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "We have carried out an investigation into the causes of changes in near-surface temperatures from 1860 to 2010. We analyze the HadCRUT4 observational data set which has the most comprehensive set of adjustments available to date for systematic biases in sea surface temperatures and the CMIP5 ensemble of coupled models which represents the most sophisticated multi-model climate modeling exercise yet carried out. Simulations that incorporate both anthropogenic and natural factors span changes in observed temperatures between 1860 and 2010, while simulations of natural factors do not warm as much as observed. As a result of sampling a much wider range of structural modeling uncertainty, we find a wider spread of historic temperature changes in CMIP5 than was simulated by the previous multi-model ensemble, CMIP3. However, calculations of attributable temperature trends based on optimal detection support previous conclusions that human-induced greenhouse gases dominate observed global warming since the mid-20th century. With a much wider exploration of model uncertainty than previously carried out, we find that individually the models give a wide range of possible counteracting cooling from the direct and indirect effects of aerosols and other non-greenhouse gas anthropogenic forcings. Analyzing the multi-model mean over 1951-2010 (focusing on the most robust result), we estimate a range of possible contributions to the observed warming of approximately 0.6 K from greenhouse gases of between 0.6 and 1.2 K, balanced by a counteracting cooling from other anthropogenic forcings of between 0 and -0.5 K. Key PointsLatest dataset of historic temperatures compared with multi model ensembleCMIP5 models have wider range of global mean warming than CMIP3 modelsMultimodel attribution analysis shows greenhouse gases dominate warming Â©2013. Crown copyright. This article is published with the permission of the Controller of HMSO and the Queen's Printer for Scotland.",
             "authkeywords": "climate change | climate models | observational datasets | temperature change",
@@ -8846,7 +8877,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "8"
+              "$": "8",
+              "@total": null
             },
             "dc:description": "A new system for attribution of weather and climate extreme events has been developed based on the atmospheric component of the latest Hadley Centre model. The model is run with either observational data of sea surface temperature and sea ice or estimates of what their values would be without the effect of anthropogenic climatic forcings. In that way, ensembles of simulations are produced that represent the climate with and without the effect of human influences. A comparison between the ensembles provides estimates of the change in the frequency of extremes due to anthropogenic forcings. To evaluate the new system, reliability diagrams are constructed, which compare the model-derived probability of extreme events with their observed frequency. The ability of the model to reproduce realistic distributions of relevant climatic variables is another key aspect of the system evaluation. Results are then presented from analyses of three recent highimpact events: the 2009/10 cold winter in the United Kingdom, the heat wave in Moscow in July 2010, and floods in Pakistan in July 2010. An evaluation assessment indicates the model can provide reliable results for the U.K. and Moscow events but not for Pakistan. It is found that without anthropogenic forcings winters in the United Kingdom colder than 2009/10 would be 7-10 times (best estimate) more common. Although anthropogenic forcings increase the likelihood of heat waves in Moscow, the 2010 event is found to be very uncommon and associated with a return time of several hundred years. No reliable attribution assessment can be made for high-precipitation events in Pakistan. Â© 2013 American Meteorological Society.",
             "authkeywords": null,
@@ -8977,7 +9009,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "This study applies the technique of event attribution to the East African rainy seasons preceding the drought of 2011. Using observed sea surface temperatures (SSTs), and sea ice conditions with a state-of-the-art atmosphere model, the precipitation totals during late 2010 (the \"short rains\") and early 2011 (the \"long rains\") were simulated hundreds of times to produce possible distributions of precipitation. Alternative distributions of precipitation were produced, consistent with a world with neither anthropogenic forcings nor human influence on SSTs and sea ice. Comparing these modeled distributions to the observed rainfall, no evidence was found for human influence on the 2010 short rains, with their failure being affected by La NiÃ±a. However, human influence was found to increase the probability of long rains as dry as, or drier than, 2011. The magnitude of increase in probability depends on the estimated pattern by which human influence changed observed SSTs. Key Points Changes in the probability of failure of East African rainy seasons are examined 2010 short rains failure shows strong influence from La NiÃ±a 2011 long rains failure was made more probable due to human influence. Â©2013 American Geophysical Union. All Rights Reserved.",
             "authkeywords": "Africa | attribution | drought | La NiÃ±a",
@@ -9238,7 +9271,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "8"
+              "$": "8",
+              "@total": null
             },
             "dc:description": "[1] This analysis revisits detection and attribution of free atmosphere temperatures from radiosondes, almost a decade after previous studies. Since that time, data sets have not only become longer, but understanding of observational uncertainty has vastly improved. In addition, a coordinated set of experiments exploring the effects of human and natural forcings on past climate change has been made with a new generation of climate models. These advances allow a much more thorough analysis of the effects of modeling and observational uncertainty on attribution results than previously possible. Observational uncertainty is explored using multiple radiosonde reconstructions including those with ensembles of realizations exploring the effects of processing choices. Modeling uncertainty is explored by calculating multiple fingerprints of natural influence (from changes in solar irradiance and volcanic aerosols) and of human influence (due to greenhouse gases and due to the effects of combined anthropogenic forcings including stratospheric ozone depletion). With increased confidence over previous studies, human influences (both greenhouse gas and other anthropogenic forcings) have been detected in spatiotemporal changes in free atmosphere temperature from 1961 to 2010, irrespective of whether the full atmospheric column (30-850 hPa) is examined or purely the troposphere, with stratospheric ozone depletion dominating the cooling that has been observed in the lower stratosphere. Thus the advances of the last decade yield increased confidence that anthropogenic influences have made a substantial contribution to the evolution of free atmosphere temperatures. Â© 2013. American Geophysical Union. All Rights Reserved.",
             "authkeywords": null,
@@ -9378,7 +9412,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "This study determines whether observed recent changes in the frequency of hot and cold extremes over land can be explained by climate variability or whether they show a detectable response to external influences. The authors analyze changes in the frequency of moderate-to-extreme daily temperatures-namely, the number of days exceeding the 90th percentile and the number of days not reaching the 10th percentile of daily minimum (tn90 and tn10, respectively) and maximum (tx90 and tx10, respectively) temperature-for both cold and warmseasons. The analysis is performed on a range of spatial scales and separately for boreal cold-and warm-season data. The fingerprint for external forcing is derived from an ensemble of simulations produced with the Hadley Centre Global Environmental Model, version 1 (HadGEM1), with both anthropogenic and natural forcings. The observations show an increase in warm extremes and a decrease in cold extremes in both seasons and in almost all regions that are generally well captured by the model. Some regional differences between model and observations may be due to local forcings or changes in climate dynamics. A detection analysis, using both optimized and nonoptimized fingerprints, shows that the influence of external forcing is detectable in observations for both cold and warm extremes, and cold and warm seasons, over the period 1951-2003 at the 5% level. It is also detectable separately for the Northern and Southern Hemispheres, and over most regions analyzed. The model shows a tendency to significantly overestimate changes in warm daytime extremes, particularly in summer. Â© 2013 American Meteorological Society.",
             "authkeywords": "Climate change | Climate variability | Extreme events | Temperature",
@@ -9535,7 +9570,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "4"
+              "$": "4",
+              "@total": null
             },
             "dc:description": "Understanding how temperature extremes respond in a climate forced by human activity is of great importance, as extreme temperatures are detrimental to health and often responsible for mortality increases. While previous detection and attribution studies demonstrated a significant human influence on the recent warming of daily extremes, contributions of individual anthropogenic forcings like changes in land use have not yet been investigated in such studies. Here we apply an optimal fingerprinting technique to data from observations and experiments with a new earth system model to examine whether changing land use has led to detectable changes in daily extreme temperatures on a quasi-global scale. We find that loss of trees and increase of grassland since preindustrial times has caused an overall cooling trend in both mean and extreme temperatures which is detectable in the observed changes of warm but not cold extremes. The warming in both mean and extreme temperatures due to anthropogenic forcings other than land use is detected in all cases, whereas the weaker effect of natural climatic forcings is not detected in any. This is the first formal attribution of observed climatic changes to changing land use, suggesting further investigations are justified, particularly in studies of warm extremes. Key Points Global cooling due to changing land use has a detectable impact on warm extremes Global warming in mean/extreme temperatures due to other forcings is detectable The land use effect is detected for the first time in a formal attribution study Â©2013. American Geophysical Union. All Rights Reserved.",
             "authkeywords": "Detection and Attribution | Land Use | Temperature Extremes",
@@ -9653,7 +9689,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "4"
+              "$": "4",
+              "@total": null
             },
             "dc:description": "Heavy rains at the end of summer 2012 across eastern Australia led to swollen rivers and widespread flooding that swamped agricultural land, caused loss of life, and forced tens of thousands of people to evacuate their homes. Using the Attribution of extreme weather and Climate Events (ACE) methodology it was found that the overall long-term effect of human influences on the climate increases the chances of above-average rainfall by 5%-15% although the impact on extreme precipitation is much more uncertain. Even when all climatic forcings are accounted for, the observed rainfall in March 2012 lies in the far tail of the expected rainfall distribution from the ACE ensembles.",
             "authkeywords": null,
@@ -9836,7 +9873,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "5"
+              "$": "5",
+              "@total": null
             },
             "dc:description": "Regional distributions of the mean annual temperature in the 2000s are computed with and without the effect of anthropogenic influences on the climate in several sub-continental regions. Simulated global patterns of the temperature response to external forcings are regressed against observations using optimal fingerprinting. The global analysis provides constraints which are then used to construct the regional temperature distributions. A similar approach was also employed in previous work, but here the methodology is extended to examine changes in any region, including areas with a poor observational coverage that were omitted in the earlier study. Two different General Circulation Models (GCMs) are used in the analysis. Anthropogenic forcings are found to have at least quadrupled the likelihood of occurrence of a year warmer than the warmest year since 1900 in 23 out of the 24 regions. The temperature distributions computed with the two models are very similar. While a more detailed assessment of model dependencies remains to be made once additional suitable GCM simulations become available, the present study introduces the statistical methodology and demonstrates its first application. The derived information concerning the effect of human influences on the regional climate is useful for adaptation planning. Moreover, by pre-computing the change in the likelihood of exceeding a temperature threshold over a range of thresholds, this kind of analysis enables a near real-time assessment of the anthropogenic impact on the observed regional temperatures. Â© 2011 Crown Copyright.",
             "authkeywords": "Anthropogenic forcings | Detection and attribution | Regional temperature",
@@ -10036,7 +10074,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "6"
+              "$": "6",
+              "@total": null
             },
             "dc:description": "Seasonal mean temperatures averaged over the European region have warmed at a rate of 0.35-0.52 K/decade since 1980. The last decade has seen record-breaking seasonal temperatures in Europe including the summer of 2003 and the spring, autumn, and winter of 2007. Previous studies have established that European summer warming since the early twentieth century can be attributed to the effects of human influence. The attribution analysis described here employs temperature data from observations and experiments with two climate models and uses optimal fingerprinting to partition the climate response between its anthropogenic and natural components. These responses are subsequently combined with estimates of unforced climate variability to construct distributions of the annual values of seasonal mean temperatures with and without the effect of human activity. We find that in all seasons, anthropogenic forcings have shifted the temperature distributions towards higher values. We compute the associated change in the likelihood of having seasons whose temperatures exceed a pre-specified threshold. We first set the threshold equal to the seasonal temperature observed in a particular year to assess the effect of anthropogenic influences in past seasons. We find that in the last decade (1999-2008) it is extremely likely (probability greater than 95%) that the probability has more than doubled under the influence of human activity in spring and autumn, while for summer it is extremely likely that the probability has at least quadrupled. One of the two models employed in the analysis indicates it is extremely likely the probability has more than doubled in winter too. We also compute the change in probability over a range of temperature thresholds which enables us to provide updates on the likely change in probability attributable to human influence as soon as observations become available. Such near-real time information could be very useful for adaptation planning. Â© 2010.",
             "authkeywords": "Detection and attribution | Regional climate change | Temperature extremes",
@@ -10167,7 +10206,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": null,
             "authkeywords": null,
@@ -10298,7 +10338,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Formal detection and attribution analyses of changes in daily extremes give evidence of a significant human influence on the increasing severity of extremely warm nights and decreasing severity of extremely cold days and nights. This paper presents an optimal fingerprinting analysis that also detects the contributions of external forcings to recent changes in extremely warm days using nonstationary extreme value theory. The authors' analysis is the first that attempts to partition the observed change in warm daytime extremes between its anthropogenic and natural components and hence attribute part of the change to possible causes. Changes in the extreme temperatures are represented by the temporal changes in a parameter of an extreme value distribution. Regional distributions of the trend in the parameter are computed with and without human influence using constraints from the global optimal fingerprinting analysis. Anthropogenic forcings alter the regional distributions, indicating that extremely warm days have become hotter. Â© 2011 American Meteorological Society.",
             "authkeywords": "Anthropogenic effects | Climate change | Climate models | Extreme events | Surface observations | Temperature",
@@ -10507,7 +10548,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "6"
+              "$": "6",
+              "@total": null
             },
             "dc:description": "Seasonal near-surface temperatures have increased in many regions of the World. Previous work has shown that this has led to rapidly increasing frequencies of very warm Northern Hemisphere summer temperatures. Here we show, using a 'single-step' attribution framework, that increases in frequencies of very warm seasonal temperatures, not just in Northern Hemisphere summers but in other regions and seasons, can be directly attributed to human influence. In the June-August and September-November seasons, many of the sub-continental regions of Africa and Asia show robust attributable increase in the frequencies of anomalously warm seasonal temperatures. Â© 2011 Royal Meteorological Society.",
             "authkeywords": "Attribution | Climate | Regional temperatures",
@@ -10638,7 +10680,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Past research has shown that the dominant in-fluence on recent global climate changes is from anthropogenic greenhouse gas increases with implications for future increases in global temperatures. One mitigation proposal is to reduce black carbon aerosol emissions. How much warming can be offset by controlling black carbon is unclear, especially as its influence on past climate has not been previously unambiguously detected. In this study observations of near-surface warming over the last century are compared with simulations using a climate model, HadGEM1. In the simulations black carbon, from fossil fuel and biofuel sources (fBC), produces a positive radiative forcing of about +0.25Wm-2 over the 20th century, compared with +2.52Wm-2 for well mixed greenhouse gases. A simulated warming of global mean near-surface temperatures over the twentieth century from fBC of 0.14Â±0.1K compares with 1.06Â±0.07K from greenhouse gases, -0.58Â±0.10K from anthropogenic aerosols, ozone and land use changes and 0.09Â±0.09K from natural influences. Using a detection and attribution methodology, the observed warming since 1900 has detectable influences from anthropogenic and natural factors. Fossil fuel and bio-fuel black carbon is found to have a detectable contribution to the warming over the last 50 yr of the 20th century, although the results are sensitive to the period being examined as fBC is not detected for the later fifty year period ending in 2006. The attributed warming of fBC was found to be consistent with the warming from fBC unscaled by the detection analysis. This study suggests that there is a possible significant influence from fBC on global temperatures, but its influence is small compared to that from greenhouse gas emissions. Â© 2011 Author(s).",
             "authkeywords": null,
@@ -10830,7 +10873,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "5"
+              "$": "5",
+              "@total": null
             },
             "dc:description": "The role of anthropogenic forcings in temperature changes during recent decades is investigated over a range of spatial scales. Changes in the annual mean surface temperature and also in the warmest night of the year, which has implications for human health, are considered. Distributions of regional trends with and without the effect of human activity are produced, using constraints from a global optimal detection analysis. Anthropogenic forcings are estimated to have more than doubled the likelihood of mean warming in all regions considered except central North America, where results are more model dependent. The likelihood of warming of the warmest night has also increased, but the estimated change is more uncertain. Inferences on sub-continental scales are indicative rather than definitive because of the absence of locally important forcings and processes in model simulations, as well as model biases. As model inconsistencies may impact regional analyses, a multi-model approach is essential. Â© 2009 Crown Copyright.",
             "authkeywords": "Attribution | Multi-model | Multi-scale | Regional | Temperature extremes",
@@ -10970,7 +11014,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Cold related mortality among people aged over 50 in England and Wales has decreased at a rate of 85 deaths per million population per year over the period 1976-2005. This trend is two orders of magnitude higher than the increase in heat-related mortality observed after 1976. Long term changes in temperature-related mortality may be linked to human activity, natural climatic forcings, or to adaptation of the population to a wider range of temperatures. Here we employ optimal detection, a formal statistical methodology, to carry out an end to end attribution analysis. We find that adaptation is a major influence on changing mortality rates. We also find that adaptation has prevented a significant increase in heat-related mortality and considerably enhanced a significant decrease in cold-related mortality. Our analysis suggests that in the absence of adaptation, the human influence on climate would have been the main contributor to increases in heat-related mortality and decreases in cold-related mortality. Â© 2009 Crown Copyright.",
             "authkeywords": null,
@@ -11101,7 +11146,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "The European summer of 2003 was exceptionally warm, and there is evidence that human influence has at least doubled the risk of such a hot summer. It is possible that by the 2040s, summers over southern Europe will be as warm or warmer 50% of the time. Because of the related socioeconomic impacts, there is growing interest in investigating changes in climate extremes across the world and how they may change in the future. We examine observed and simulated summer temperatures over a set of regions covering the Northern Hemisphere. Simulated changes are consistent with observed changes over the vast majority of regions when the climate simulation includes changes in anthropogenic and natural influences. We detect the dominant influence of anthropogenic factors on observed warming in almost every region, which has led to a rapidly increasing risk of hot summers. We show that hot summers which were infrequent 20-40 years ago are now much more common and that our projections indicate that the current sharp rise in incidence of hot summers is likely to continue.",
             "authkeywords": null,
@@ -11275,7 +11321,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "5"
+              "$": "5",
+              "@total": null
             },
             "dc:description": "Increasing surface temperatures are expected to result in longer growing seasons. An optimal detection analysis is carried out to assess the significance of increases in the growing season length during 1950-99, and to measure the anthropogenic component of the change. The signal is found to be detectable, both on global and continental scales, and human influence needs to be accounted for if it is to be fully explained. The change in the growing season length is found to be asymmetric and largely due to the earlier onset of spring, rather than the later ending of autumn. The growing season length, based on exceedence of local temperature thresholds, has a rate of increase of about 1.5 days decade-1 over the observation area. Local variations also allow for negative trends in parts of North America. The analysis suggests that the signal can be attributed to the anthropogenic forcings that have acted on the climate system and no other forcings are necessary to describe the change. Model projections predict that under future climate change the later ending of autumn will also contribute significantly to the lengthening of the growing season, which will increase in the twenty-first century by more than a month. Such major changes in seasonality will affect physical and biological systems in several ways, leading to important environmental and socioeconomic consequences and adaptation challenges. Â© 2007 American Meteorological Society.",
             "authkeywords": null,
@@ -11406,7 +11453,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "3"
+              "$": "3",
+              "@total": null
             },
             "dc:description": "Meteorological drought in the Hadley Centre global climate model is assessed using the Palmer Drought Severity Index (PDSI), a commonly used drought index. At interannual time scales, for the majority of the land surface, the model captures the observed relationship between the El NiÃ±o-Southern Oscillation and regions of relative wetness and dryness represented by high and low values of the PDSI respectively. At decadal time scales, on a global basis, the model reproduces the observed drying trend (decreasing PDSI) since 1952. An optimal detection analysis shows that there is a significant influence of anthropogenic emissions of greenhouse gasses and sulphate aerosols in the production of this drying trend. On a regional basis, the specific regions of wetting and drying are not always accurately simulated. In this paper, present-day drought events are defined as continuous time periods where the PDSI is less than the 20th percentile of the PDSI distribution between 1952 and 1998 (i.e., on average 20% of the land surface is in drought at any one time). Overall, the model predicts slightly less frequent but longer events than are observed. Future projections of drought in the twenty-first century made using the Special Report on Emissions Scenarios (SRES) A2 emission scenario show regions of strong wetting and drying with a net overall global drying trend. For example, the proportion of the land surface in extreme drought is predicted to increase from 1% for the present day to 30% by the end of the twenty-first century.",
             "authkeywords": null,
@@ -11673,7 +11721,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "8"
+              "$": "8",
+              "@total": null
             },
             "dc:description": "Â© 2006, the Meteorological Society of Japan. Detection/attribution analyses of temperature extremes were carried out by comparing a new gridded observational dataset of daily maximum/minimum temperatures (HadGHCND) and the simulation of MIROC3.2. It was shown that significant anthropogenic warming is detectable in the annual warmest night, and the coldest day and night from 1950 to 1999, while human influence was not detected in the warmest day. These findings are in agreement with a previous study that examined the simulation of HadCM3. Human influence is also identified in the decrease in the number of frost days, but not with the increase in the number of summer days. Furthermore, it was suggested that half of the warming trend due to rising greenhouse gas concentrations is canceled out by other factors, predominantly aerosol cooling. It is expected that a rapid decline of aerosol emissions coupled with rising greenhouse gas concentrations would induce larger changes in temperature extremes in the future.",
             "authkeywords": null,
@@ -11847,7 +11896,8 @@
             ],
             "author-count": {
               "@limit": "100",
-              "$": "5"
+              "$": "5",
+              "@total": null
             },
             "dc:description": "Since 1950, the warmest and coldest days and nights of the year have become warmer. Comparing these observations with climate model simulations in an optimal detection analysis shows a significant human influence on patterns of change in extremely warm nights. Human influence on cold nights and days is also detected, although less robustly, but there is no detection of a significant human influence on extremely warm days. In the future, extreme temperatures are expected to intensify considerably, with adverse consequences for human health. Copyright 2005 by the American Geophysical Union.",
             "authkeywords": null,

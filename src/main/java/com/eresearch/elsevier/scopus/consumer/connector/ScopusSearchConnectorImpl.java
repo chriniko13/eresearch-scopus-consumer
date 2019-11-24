@@ -13,6 +13,9 @@ import com.eresearch.elsevier.scopus.consumer.exception.BusinessProcessingExcept
 import com.eresearch.elsevier.scopus.consumer.metrics.entries.ConnectorLayerMetricEntry;
 import com.eresearch.elsevier.scopus.consumer.worker.WorkerDispatcher;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import io.vavr.Tuple;
+import io.vavr.Tuple2;
+import io.vavr.control.Either;
 import lombok.extern.log4j.Log4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -79,12 +82,11 @@ public class ScopusSearchConnectorImpl implements ScopusSearchConnector {
 
         Timer.Context context = connectorLayerMetricEntry.getConnectorLayerTimer().time();
         try {
-
-            List<ScopusConsumerResultsDto> results = new ArrayList<>();
+            final List<ScopusConsumerResultsDto> results = new ArrayList<>();
 
             URI uri = constructUri(query);
 
-            ScopusConsumerResultsDto firstResult = pullAndFetchInfo(uri);
+            ScopusConsumerResultsDto firstResult = tryFetch(uri);
             results.add(firstResult);
 
             //check if we have results for the provided query...
@@ -94,15 +96,14 @@ public class ScopusSearchConnectorImpl implements ScopusSearchConnector {
 
             if (workerDispatcher.shouldDispatch(allResourcesToHit.size())) { //if we need to split the load then...
 
-                results.addAll(workerDispatcher.performTask(allResourcesToHit, extractInfoWithProvidedResource()));
+                List<ScopusConsumerResultsDto> resultsDtos = workerDispatcher.performTask(allResourcesToHit, extractInfoWithProvidedResource());
+                results.addAll(resultsDtos);
 
             } else {
-
                 for (URI resourceToHit : allResourcesToHit) {
-                    ScopusConsumerResultsDto result = pullAndFetchInfo(resourceToHit);
-                    results.add(result);
+                    ScopusConsumerResultsDto resultDto = tryFetch(resourceToHit);
+                    results.add(resultDto);
                 }
-
             }
 
             uniqueEntriesGuard.apply(results);
@@ -113,7 +114,7 @@ public class ScopusSearchConnectorImpl implements ScopusSearchConnector {
             log.error("ScopusSearchConnectorImpl#searchScopusExhaustive --- error occurred.", e);
             throw e;
 
-        } catch (RestClientException | IOException e) {
+        } catch (RestClientException e) {
 
             log.error("ScopusSearchConnectorImpl#searchScopusExhaustive --- error occurred.", e);
             throw new BusinessProcessingException(
@@ -137,9 +138,9 @@ public class ScopusSearchConnectorImpl implements ScopusSearchConnector {
     private Function<URI, ScopusConsumerResultsDto> extractInfoWithProvidedResource() {
         return resource -> {
             try {
-                return pullAndFetchInfo(resource);
-            } catch (IOException e) {
-                throw new CompletionException(e);
+                return tryFetch(resource);
+            } catch (BusinessProcessingException e) {
+                throw new RuntimeException(e);
             }
         };
     }
@@ -195,12 +196,45 @@ public class ScopusSearchConnectorImpl implements ScopusSearchConnector {
                 .findAny();
     }
 
-    private ScopusConsumerResultsDto pullAndFetchInfo(URI uri) throws IOException {
+    private Either<
+            Tuple2<String /*Note: contains stringified fetched data for troubleshooting with Scopus API changes*/, Throwable>,
+            ScopusConsumerResultsDto
+            > pullAndFetchInfo(URI uri) {
 
-        log.info("ScopusSearchConnectorImpl#pullAndFetchInfo, will hit url: " + uri.toString());
+        String resultInString = "DATA_NOT_FETCHED_YET";
 
-        String resultInString = communicator.communicateWithElsevier(uri);
-        return objectMapper.readValue(resultInString, ScopusConsumerResultsDto.class);
+        try {
+            log.info("ScopusSearchConnectorImpl#pullAndFetchInfo, will hit url: " + uri.toString());
+            resultInString = communicator.communicateWithElsevier(uri);
+
+            ScopusConsumerResultsDto dto = objectMapper.readValue(resultInString, ScopusConsumerResultsDto.class);
+            return Either.right(dto);
+
+        } catch (IOException error) {
+
+            log.error("SCOPUS API INTEGRATION ERROR / CHANGED SIGNATURES, message: " + error.getMessage() + ", stringified fetched data: [" + resultInString + "]", error);
+
+            Tuple2<String, Throwable> pair = Tuple.of(resultInString, error);
+            return Either.left(pair);
+        }
+
+    }
+
+    private ScopusConsumerResultsDto tryFetch(URI uri) throws BusinessProcessingException {
+
+        Either<Tuple2<String, Throwable>, ScopusConsumerResultsDto> resultProcess = pullAndFetchInfo(uri);
+        if (resultProcess.isLeft()) {
+
+            Tuple2<String, Throwable> pair = resultProcess.getLeft();
+            Throwable e = pair._2();
+
+            throw new BusinessProcessingException(
+                    EresearchElsevierScopusConsumerError.BUSINESS_PROCESSING_ERROR,
+                    EresearchElsevierScopusConsumerError.BUSINESS_PROCESSING_ERROR.getMessage(),
+                    e);
+        }
+
+        return resultProcess.get();
     }
 
     private URI constructUri(String query, String startQueryParam, String countQueryParam) {

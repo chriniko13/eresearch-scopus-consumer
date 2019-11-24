@@ -16,4 +16,7 @@ public class ScopusSearchAuthorCount {
 
     @JsonProperty("$")
     private String authorCount;
+
+    @JsonProperty("@total")
+    private String total;
 }
